@@ -1,0 +1,1027 @@
+A fib,Atrial fibrillation
+Abnormally excessive sweating,Hyperhidrosis
+Abscess, Bartholin's,Bartholin's cyst
+Acid reflux,Gastroesophageal reflux disease (GERD)
+Acid reflux, infant,Infant reflux
+Acne inversa,Hidradenitis suppurativa
+Acquired immunodeficiency syndrome,HIV/AIDS
+Acute granulocytic leukemia,Acute myelogenous leukemia
+Acute inflammatory demyelinating polyneuropathy,Guillain-Barre syndrome
+Acute lymphoblastic leukemia,Acute lymphocytic leukemia
+Acute lymphoid leukemia,Acute lymphocytic leukemia
+Acute myeloblastic leukemia,Acute myelogenous leukemia
+Acute myeloid lukemia,Acute myelogenous leukemia
+Acute nonlymphocytic leukemia,Acute myelogenous leukemia
+Acute radiation sickness,Radiation sickness
+Acute radiation syndrome,Radiation sickness
+Acute renal failure,Acute kidney failure
+Acute respiratory distress syndrome,ARDS
+Addiction, alcohol,Alcohol use disorder
+Addiction, gambling,Compulsive gambling
+Addiction, nicotine,Nicotine dependence
+Adenitis, mesenteric,Mesenteric lymphadenitis
+ADHD in children,Attention-deficit/hyperactivity disorder (ADHD) in children
+ADHD, Adult,Adult attention-deficit/hyperactivity disorder (ADHD)
+Adhesive capsulitis,Frozen shoulder
+Adolescent schizophrenia,Childhood schizophrenia
+Adrenal mass,Benign adrenal tumors
+AFM,Acute flaccid myelitis (AFM)
+Age-related macular degeneration, dry,Dry macular degeneration
+Age-related macular degeneration, wet,Wet macular degeneration
+Agnogenic myeloid metaplasia,Myelofibrosis
+AIDP,Guillain-Barre syndrome
+AIDS/HIV,HIV/AIDS
+Alcohol addiction,Alcohol use disorder
+Allergic granulomatosis,Churg-Strauss syndrome
+Allergic granulomatosis and angiitis,Churg-Strauss syndrome
+Allergic rhinitis,Hay fever
+Allergy, dust mite,Dust mite allergy
+Allergy, egg,Egg allergy
+Allergy, food,Food allergy
+Allergy, latex,Latex allergy
+Allergy, milk,Milk allergy
+Allergy, mold,Mold allergy
+Allergy, nickel,Nickel allergy
+Allergy, peanut,Peanut allergy
+Allergy, penicillin,Penicillin allergy
+Allergy, pet,Pet allergy
+Allergy, shellfish,Shellfish allergy
+Allergy, wheat,Wheat allergy
+Alopecia,Hair loss
+ALS,Amyotrophic lateral sclerosis (ALS)
+Alveolar osteitis,Dry socket
+Amblyopia,Lazy eye (amblyopia)
+Amnesia, transient global,Transient global amnesia
+Amnestic syndrome,Amnesia
+Amyloid disease,Amyloidosis
+Anemia, aplastic,Aplastic anemia
+Anemia, Cooley's,Thalassemia
+Anemia, iron deficiency,Iron deficiency anemia
+Anemia, Mediterranean,Thalassemia
+Anemia, sickle cell,Sickle cell anemia
+Anemia, vitamin deficiency,Vitamin deficiency anemia
+Aneurysm, abdominal aortic,Abdominal aortic aneurysm
+Aneurysm, aortic,Aortic aneurysm
+Aneurysm, brain,Brain aneurysm
+Aneurysm, cerebral,Brain aneurysm
+Aneurysm, popliteal,Popliteal artery aneurysm
+Aneurysm, thoracic aortic,Thoracic aortic aneurysm
+Angiitis,Vasculitis
+Angina pectoris,Angina
+Angioedema and hives,Hives and angioedema
+Angiofollicular lymph node hyperplasia,Castleman disease
+Ankle fracture,Broken ankle
+Ankle sprain,Sprained ankle
+Ankyloglossia,Tongue-tie (ankyloglossia)
+Anorexia,Anorexia nervosa
+Anterior cruciate ligament injury,ACL injury
+Anterior vaginal prolapse,Anterior vaginal prolapse (cystocele)
+Antibiotic-associated colitis,Pseudomembranous colitis
+Anxiety disorder, generalized,Generalized anxiety disorder
+Anxiety disorder, social,Social anxiety disorder (social phobia)
+Aortic aneurysm, abdominal,Abdominal aortic aneurysm
+Aortic coarctation,Coarctation of the aorta
+Aphasia, primary progressive,Primary progressive aphasia
+Aphthous stomatitis,Canker sore
+Aphthous ulcer,Canker sore
+Apical ballooning syndrome,Broken heart syndrome
+APS,Antiphospholipid syndrome
+Arenaviruses,Viral hemorrhagic fevers
+Argentine hemorrhagic fever,Viral hemorrhagic fevers
+Arm fracture,Broken arm
+Arnold-Chiari malformation,Chiari malformation
+Arrhythmia,Heart arrhythmia
+Arteritis, giant cell,Giant cell arteritis
+Arteritis, Takayasu's,Takayasu's arteritis
+Arthritis, basal joint,Thumb arthritis
+Arthritis, degenerative,Osteoarthritis
+Arthritis, gouty,Gout
+Arthritis, infectious,Septic arthritis
+Arthritis, juvenile idiopathic,Juvenile idiopathic arthritis
+Arthritis, osteoarthritis,Osteoarthritis
+Arthritis, psoriatic,Psoriatic arthritis
+Arthritis, reactive,Reactive arthritis
+Arthritis, rheumatoid,Rheumatoid arthritis
+Arthritis, septic,Septic arthritis
+Arthritis, thumb,Thumb arthritis
+ASD,Atrial septal defect (ASD)
+Aseptic necrosis,Avascular necrosis (osteonecrosis)
+Asthma, childhood,Childhood asthma
+Asthma, exercise-induced,Exercise-induced asthma
+Asthma, occupational,Occupational asthma
+AT,Atrial tachycardia
+Atherosclerosis,Arteriosclerosis / atherosclerosis
+Atrioventricular septal defect,Atrioventricular canal defect
+Atrophic vaginitis,Vaginal atrophy
+Attachment disorder,Reactive attachment disorder
+Attention-deficit/hyperactivity disorder in adults,Adult attention-deficit/hyperactivity disorder (ADHD)
+AVN,Avascular necrosis (osteonecrosis)
+AVNRT,Atrioventricular nodal reentry tachycardia (AVNRT)
+Baldness,Hair loss
+Barber's itch,Folliculitis
+Barlow's syndrome,Mitral valve prolapse
+Barotitis media,Airplane ear
+Barotrauma,Airplane ear
+Basal joint arthritis,Thumb arthritis
+BDD,Body dysmorphic disorder
+Benign migratory glossitis,Geographic tongue
+Benign paroxysmal positional vertigo,Benign paroxysmal positional vertigo (BPPV)
+Berger's disease,IgA nephropathy (Berger disease)
+Bile duct cancer,Cholangiocarcinoma (bile duct cancer)
+Binge drinking,Alcohol poisoning
+Blackheads,Acne
+Bladder calculi,Bladder stones
+Bladder control, loss of,Urinary incontinence
+Bladder infection,Cystitis
+Bladder inflammation,Interstitial cystitis
+Bladder prolapse,Anterior vaginal prolapse (cystocele)
+Blastocystosis,Blastocystis hominis
+Blocked ureter,Ureteral obstruction
+BMS,Burning mouth syndrome
+Body odor and sweating,Sweating and body odor
+Bone infection,Osteomyelitis
+Bowel incontinence,Fecal incontinence
+Bowel obstruction,Intestinal obstruction
+BPH,Benign prostatic hyperplasia (BPH)
+Bradycardia-tachycardia syndrome,Sick sinus syndrome
+Brain arteriovenous malformation,Brain AVM (arteriovenous malformation)
+Brain tumor, child,Pediatric brain tumors
+Breast cancer, inflammatory,Inflammatory breast cancer
+Breast cancer, male,Male breast cancer
+Breast infection,Mastitis
+Broken blood vessel in eye,Subconjunctival hemorrhage (broken blood vessel in eye)
+Broken hip,Hip fracture
+Bunyaviruses,Viral hemorrhagic fevers
+Burn injury,Burns
+Burning thigh pain,Meralgia paresthetica
+Bursitis of the knee,Knee bursitis
+C. difficile colitis,Pseudomembranous colitis
+Calluses and corns,Corns and calluses
+Cancer, acute lymphocytic leukemia,Acute lymphocytic leukemia
+Cancer, anal,Anal cancer
+Cancer, basal cell,Basal cell carcinoma
+Cancer, bladder,Bladder cancer
+Cancer, bone,Bone cancer
+Cancer, breast,Breast cancer
+Cancer, carcinoid tumors,Carcinoid tumors
+Cancer, cervical,Cervical cancer
+Cancer, chronic lymphocytic leukemia,Chronic lymphocytic leukemia
+Cancer, chronic myelogenous leukemia,Chronic myelogenous leukemia
+Cancer, colon,Colon cancer
+Cancer, endometrial,Endometrial cancer
+Cancer, esophageal,Esophageal cancer
+Cancer, eye melanoma,Eye melanoma
+Cancer, gallbladder,Gallbladder cancer
+Cancer, gastric,Stomach cancer
+Cancer, hairy cell leukemia,Hairy cell leukemia
+Cancer, Hodgkin's disease,Hodgkin's lymphoma (Hodgkin's disease)
+Cancer, Hurthle cell,Hurthle cell cancer
+Cancer, inflammatory breast,Inflammatory breast cancer
+Cancer, kidney,Kidney cancer
+Cancer, leukemia,Leukemia
+Cancer, lip,Mouth cancer
+Cancer, liver,Liver cancer
+Cancer, lung,Lung cancer
+Cancer, male breast,Male breast cancer
+Cancer, Merkel cell,Merkel cell carcinoma
+Cancer, mesothelioma,Mesothelioma
+Cancer, mouth,Mouth cancer
+Cancer, multiple myeloma,Multiple myeloma
+Cancer, nasopharyngeal,Nasopharyngeal carcinoma
+Cancer, neuroblastoma,Neuroblastoma
+Cancer, non-Hodgkin's lymphoma,Non-Hodgkin's lymphoma
+Cancer, oral,Mouth cancer
+Cancer, ovarian,Ovarian cancer
+Cancer, pancreatic,Pancreatic cancer
+Cancer, paraneoplastic syndromes,Paraneoplastic syndromes of the nervous system
+Cancer, prostate,Prostate cancer
+Cancer, rectal,Rectal cancer
+Cancer, retinoblastoma,Retinoblastoma
+Cancer, skin,Skin cancer
+Cancer, soft tissue sarcoma,Soft tissue sarcoma
+Cancer, squamous cell,Squamous cell carcinoma of the skin
+Cancer, stomach,Stomach cancer
+Cancer, testicular,Testicular cancer
+Cancer, throat,Throat cancer
+Cancer, thyroid,Thyroid cancer
+Cancer, uterine,Endometrial cancer
+Cancer, vagina,Vaginal cancer
+Cancer, vulvar,Vulvar cancer
+Cancer, Wilms' tumor,Wilms tumor
+Candidiasis, oral,Oral thrush
+Candidiasis, vaginal,Yeast infection (vaginal)
+Carbuncles and boils,Boils and carbuncles
+Cardiac arrest, sudden,Sudden cardiac arrest
+Cardiac ischemia,Myocardial ischemia
+Cardiomegaly,Enlarged heart
+Cardiomyopathy, dilated,Dilated cardiomyopathy
+Cardiomyopathy, hypertrophic,Hypertrophic cardiomyopathy
+Cardiospasm,Achalasia
+Cardiovascular disease,Heart disease
+Carotid artery stenosis,Carotid artery disease
+Carotid insufficiency,Carotid artery disease
+CAS,Childhood apraxia of speech
+CDH,Congenital diaphragmatic hernia (CDH)
+Celiac artery compression,Median arcuate ligament syndrome (MALS)
+Celiac artery compression syndrome,Median arcuate ligament syndrome (MALS)
+Celiac axis syndrome,Median arcuate ligament syndrome (MALS)
+Celiac trunk compression syndrome,Median arcuate ligament syndrome (MALS)
+CELLO,Barrett's esophagus
+Cercarial dermatitis,Swimmer's itch
+Cerebral aneurysm,Brain aneurysm
+Cerebrospinal fluid leak,CSF leak (Cerebrospinal fluid leak)
+Cerebrovascular accident,Stroke
+Cerumen impaction,Earwax blockage
+Cervical osteoarthritis,Cervical spondylosis
+CHD,Hip dysplasia
+Chemical dependency,Drug addiction (substance use disorder)
+Chest wall pain,Costochondritis
+Child maltreatment,Child abuse
+Cholangitis, primary sclerosing,Primary sclerosing cholangitis
+Chorea, Huntington's,Huntington's disease
+Chronic adrenal insufficiency,Addison's disease
+Chronic compartment syndrome,Chronic exertional compartment syndrome
+Chronic kidney failure,Chronic kidney disease
+Chronic lymphocytic thyroiditis,Hashimoto's disease
+Chronic obstructive pulmonary disease,COPD
+Chronic renal failure,Chronic kidney disease
+Chronic vulvar pain,Vulvodynia
+CJD,Creutzfeldt-Jakob disease
+CKD,Chronic kidney disease
+Click-murmur syndrome,Mitral valve prolapse
+Clinical depression,Depression (major depressive disorder)
+CLL,Chronic lymphocytic leukemia
+Clostridioides difficile infection,C. difficile infection
+Clostridium difficile infection,C. difficile infection
+Coccidioidomycosis,Valley fever
+Cold allergy,Cold urticaria
+Cold exposure,Hypothermia
+Cold, common,Common cold
+Colitis, ischemic,Ischemic colitis
+Colitis, microscopic,Microscopic colitis
+Colitis, pseudomembranous,Pseudomembranous colitis
+Colitis, ulcerative,Ulcerative colitis
+Collapsed lung,Atelectasis
+Collapsed lung,Pneumothorax
+Colonic ischemia,Ischemic colitis
+Colorectal cancer,Colon cancer
+Columnar epithelium lined lower esophagus,Barrett's esophagus
+Complicated bereavement,Complicated grief
+Compulsive hoarding syndrome,Hoarding disorder
+Compulsive overeating,Binge-eating disorder
+Compulsive stealing,Kleptomania
+Condylomata acuminata,Genital warts
+Congenital hip dislocation,Hip dysplasia
+Congenital megacolon,Hirschsprung's disease
+Congenital plagiocephaly,Craniosynostosis
+Congestive heart failure,Heart failure
+Conjunctivitis,Pink eye (conjunctivitis)
+Conversion disorder,Functional neurologic disorder/conversion disorder
+Cooley's anemia,Thalassemia
+Coronary microvascular disease,Small vessel disease
+Costosternal chondrodynia,Costochondritis
+Costosternal syndrome,Costochondritis
+Cough, chronic,Chronic cough
+COVID-19,Coronavirus disease 2019 (COVID-19)
+COVID-19-associated multisystem inflammatory syndrome in children,Multisystem inflammatory syndrome in children (MIS-C)
+Crabs,Pubic lice (crabs)
+Cramp, muscle,Muscle cramp
+Cramps, menstrual,Menstrual cramps
+Cranial arteritis,Giant cell arteritis
+Crib death,Sudden infant death syndrome (SIDS)
+CRPS,Complex regional pain syndrome
+Cryptorchidism,Undescended testicle
+CTCL,Cutaneous T-cell lymphoma
+Curvature of the penis,Peyronie's disease
+Curvature of the spine,Scoliosis
+Cutting/self-injury,Self-injury/cutting
+CVA,Stroke
+Cyclothymic disorder,Cyclothymia (cyclothymic disorder)
+Cyst, Bartholin's,Bartholin's cyst
+Cyst, ganglion,Ganglion cyst
+Cyst, kidney,Kidney cysts
+Cyst, ovarian,Ovarian cysts
+Cyst, pancreatic,Pancreatic cysts
+Cyst, pilonidal,Pilonidal cyst
+Cyst, spermatic,Spermatocele
+Cystitis, interstitial,Interstitial cystitis
+Cystocele,Anterior vaginal prolapse (cystocele)
+Cysts, epidermoid,Epidermoid cysts
+Cysts, sebaceous,Epidermoid cysts
+Cytomegalovirus infection,Cytomegalovirus (CMV) infection
+Daytime sleepiness,Narcolepsy
+DCIS,Ductal carcinoma in situ (DCIS)
+DDH,Hip dysplasia
+Decreased tear production,Dry eyes
+Deficient color vision,Color blindness
+Degenerative arthritis,Osteoarthritis
+Delayed gastric emptying,Gastroparesis
+Dementia, frontotemporal,Frontotemporal dementia
+Dementia, Lewy body,Lewy body dementia
+Dementia, vascular,Vascular dementia
+Dengue hemorrhagic fever,Dengue fever
+Dependence, nicotine,Nicotine dependence
+Depression, postpartum,Postpartum depression
+Depression, teen,Teen depression
+Dermatitis, atopic,Atopic dermatitis (eczema)
+Dermatitis, cercarial,Swimmer's itch
+Dermatitis, contact,Contact dermatitis
+Dermatitis, scratch,Neurodermatitis
+Dermatitis, seborrheic,Seborrheic dermatitis
+Dermatographism,Dermatographia (Dermatographism)
+Dermatophytosis,Athlete's foot
+Detached retina,Retinal detachment
+Developmental dysplasia of the hip,Hip dysplasia
+Devic's disease,Neuromyelitis optica
+DFSP,Dermatofibrosarcoma protuberans
+Diabetes mellitus,Diabetes
+Diabetes, gestational,Gestational diabetes
+Diabetes, type 1,Type 1 diabetes
+Diabetes, type 1 in children,Type 1 diabetes in children
+Diabetes, type 2,Type 2 diabetes
+Diabetes, type 2 in children,Type 2 diabetes in children
+Diarrhea, antibiotic-associated,Antibiotic-associated diarrhea
+Diarrhea, traveler's,Traveler's diarrhea
+Difficulty speaking,Voice disorders
+Difficulty swallowing,Dysphagia
+Dissecting aneurysm,Aortic dissection
+Drop foot,Foot drop
+DSPS,Delayed sleep phase
+DSRCT,Desmoplastic small round cell tumors
+Dunbar syndrome,Median arcuate ligament syndrome (MALS)
+DVT,Deep vein thrombosis (DVT)
+Dysmenorrhea,Menstrual cramps
+Dyspareunia,Painful intercourse (dyspareunia)
+Dyspepsia,Indigestion
+Dysphonia,Voice disorders
+Dysrhythmias,Heart arrhythmia
+Dysthymia,Persistent depressive disorder
+Dystonia, cervical,Cervical dystonia
+Ear infection, outer ear,Swimmer's ear
+Eardrum, ruptured,Ruptured eardrum (perforated eardrum)
+Early puberty,Precocious puberty
+Eating disorders, anorexia,Anorexia nervosa
+Eating disorders, binge eating,Binge-eating disorder
+Eating disorders, bulimia,Bulimia nervosa
+Ectopic heartbeat,Premature ventricular contractions (PVCs)
+Eczema,Atopic dermatitis (eczema)
+Eczema, dyshidrotic,Dyshidrosis
+ED,Erectile dysfunction
+Edema, pulmonary,Pulmonary edema
+Embolism, pulmonary,Pulmonary embolism
+End stage kidney failure,End-stage renal disease
+Endocardial cushion defect,Atrioventricular canal defect
+Endometrial polyps,Uterine polyps
+Enlarged breasts in men,Enlarged breasts in men (gynecomastia)
+Enlarged prostate,Benign prostatic hyperplasia (BPH)
+Enlarged thyroid,Goiter
+Eosinophilic granulomatosis with polyangiitis,Churg-Strauss syndrome
+Epicondylitis, lateral,Tennis elbow
+Epilepsy, frontal lobe,Frontal lobe seizures
+Erythema infectiosum,Parvovirus infection
+Erythema multiforme major,Stevens-Johnson syndrome
+Escherichia coli infection,E. coli
+Esophageal achalasia,Achalasia
+Excess facial hair in women,Hirsutism
+Excess growth hormone,Acromegaly
+Excessive daytime sleepiness,Narcolepsy
+Excessive menstrual bleeding,Heavy menstrual bleeding
+External otitis,Swimmer's ear
+Extrasystole,Premature ventricular contractions (PVCs)
+Eyelid inflammation,Blepharitis
+Facial hair, excess in women,Hirsutism
+Facial palsy,Bell's palsy
+Fallen arches,Flatfeet
+Fallot, tetralogy of,Tetralogy of Fallot
+Familial paroxysmal peritonitis,Familial Mediterranean fever
+FAP,Familial adenomatous polyposis
+Fever blister,Cold sore
+Fever, valley,Valley fever
+Fevers, viral hemorrhagic,Viral hemorrhagic fevers
+FH,Familial hypercholesterolemia
+Fibroids, uterine,Uterine fibroids
+Fibrosis, cystic,Cystic fibrosis
+Fibrosis, interstitial pulmonary,Interstitial lung disease
+Fibrosis, pulmonary,Pulmonary fibrosis
+Fifth disease,Parvovirus infection
+Filoviruses,Viral hemorrhagic fevers
+Fistula, arteriovenous,Arteriovenous fistula
+Flaviviruses,Viral hemorrhagic fevers
+Floaters,Eye floaters
+Floppy valve syndrome,Mitral valve prolapse
+Flu,Influenza (flu)
+Flu, swine,H1N1 flu (swine flu)
+Fluid around the heart,Pericardial effusion
+Folate deficiency anemia,Vitamin deficiency anemia
+Food allergy, egg,Egg allergy
+Food allergy, milk,Milk allergy
+Food-borne illness,Food poisoning
+Foot fracture,Broken foot
+Foramen ovale,Patent foramen ovale
+Fracture, arm,Broken arm
+Fracture, growth plate,Growth plate fractures
+Fracture, hip,Hip fracture
+Fracture, leg,Broken leg
+Fracture, stress,Stress fractures
+Fractured nose,Broken nose
+Fractured rib,Broken ribs
+Frontal lobe epilepsy,Frontal lobe seizures
+Frontotemporal lobar degeneration,Frontotemporal dementia
+FSGS,Focal segmental glomerulosclerosis (FSGS)
+Fungal infection, nail,Nail fungus
+Funnel chest,Pectus excavatum
+GAD,Generalized anxiety disorder
+Gallbladder inflammation,Cholecystitis
+Gambling, compulsive,Compulsive gambling
+Gastric cancer,Stomach cancer
+Gastric emptying, delayed,Gastroparesis
+Gastric emptying, rapid,Dumping syndrome
+Gastroenteritis, viral,Viral gastroenteritis (stomach flu)
+Gastroesophageal reflux disease,Gastroesophageal reflux disease (GERD)
+Gender identity disorder,Gender dysphoria
+German measles,Rubella
+Giant lymph node hyperplasia,Castleman disease
+Glossodynia,Burning mouth syndrome
+Glucocerebrosidase deficiency,Gaucher disease
+Gluten-sensitive enteropathy,Celiac disease
+Grief,Complicated grief
+Gross hematuria,Blood in urine (hematuria)
+Growth hormone excess,Acromegaly
+Gum disease, gingivitis,Gingivitis
+Gum disease, periodontitis,Periodontitis
+H. pylori infection,Helicobacter pylori (H. pylori) infection
+H1N1 flu,H1N1 flu (swine flu)
+H1N1v flu,H1N1 flu (swine flu)
+H3N2v flu,H1N1 flu (swine flu)
+Hair-pulling disorder,Trichotillomania (hair-pulling disorder)
+Hairy tongue,Black hairy tongue
+Halitosis,Bad breath
+Hand fracture,Broken hand
+Hardening of the arteries,Arteriosclerosis / atherosclerosis
+HAV infection,Hepatitis A
+HBV infection,Hepatitis B
+HCV infection,Hepatitis C
+Head trauma, coma,Coma
+Headache, chronic daily,Chronic daily headaches
+Headache, cluster,Cluster headache
+Headache, exercise,Exercise headaches
+Headache, migraine,Migraine
+Headache, primary cough,Cough headaches
+Headache, sex,Sex headaches
+Headache, sinus,Sinus headaches
+Headache, spinal,Spinal headaches
+Headache, tension,Tension headache
+Headache, thunderclap,Thunderclap headaches
+Health anxiety,Illness anxiety disorder
+Heart defects in adults,Congenital heart disease in adults
+Heel pain,Plantar fasciitis
+Hemangioma, liver,Liver hemangioma
+Hematoma, intracranial,Intracranial hematoma
+Hematuria,Blood in urine (hematuria)
+Hep A,Hepatitis A
+Hep B,Hepatitis B
+Hep C,Hepatitis C
+Hepatitis A virus infection,Hepatitis A
+Hepatitis B virus infection,Hepatitis B
+Hepatitis C virus infection,Hepatitis C
+Hepatitis, autoimmune,Autoimmune hepatitis
+Hepatitis, toxic,Toxic hepatitis
+Hepatomegaly,Enlarged liver
+Hereditary hemochromatosis,Hemochromatosis
+Hereditary motor and sensory neuropathy,Charcot-Marie-Tooth disease
+Hereditary nonpolyposis colorectal cancer syndrome,Lynch syndrome
+Hereditary progressive arthro-ophthalmopathy,Stickler syndrome
+Hernia, hiatal,Hiatal hernia
+Hernia, inguinal,Inguinal hernia
+Hernia, umbilical,Umbilical hernia
+Herpes zoster,Shingles
+Herpes zoster oticus,Ramsay Hunt syndrome
+Herpes, genital,Genital herpes
+High blood pressure, secondary,Secondary hypertension
+High-flow priapism,Priapism
+Hives, chronic,Chronic hives
+Hoarse voice,Laryngitis
+Hodgkin's disease,Hodgkin's lymphoma (Hodgkin's disease)
+Hordeolum,Stye (sty)
+Horner-Bernard syndrome,Horner syndrome
+Human immunodeficiency virus,HIV/AIDS
+Human papillomavirus infection,HPV infection
+Hunchback,Kyphosis
+Hunt's syndrome,Ramsay Hunt syndrome
+Hutchinson-Gilford progeria syndrome,Progeria
+Hypercholesterolemia,High cholesterol
+Hypercholesterolemia, familial,Familial hypercholesterolemia
+Hypercortisolism,Cushing syndrome
+Hypermenorrhea,Heavy menstrual bleeding
+Hyperopia,Farsightedness
+Hypersexuality,Compulsive sexual behavior
+Hypertension,High blood pressure (hypertension)
+Hypertension, pregnancy-related,Preeclampsia
+Hypertension, pulmonary,Pulmonary hypertension
+Hypoactive sexual desire disorder,Low sex drive in women
+Hypochondria,Illness anxiety disorder
+Hypoglycemia, diabetic,Diabetic hypoglycemia
+Hypohydration,Dehydration
+Hypotension,Low blood pressure (hypotension)
+IBD,Inflammatory bowel disease (IBD)
+IBS,Irritable bowel syndrome
+Idiopathic intracranial hypertension,Pseudotumor cerebri (idiopathic intracranial hypertension)
+Idiopathic myelofibrosis,Myelofibrosis
+Idiopathic thrombocytopenic purpura,Immune thrombocytopenia (ITP)
+Idiopathic toe walking,Toe walking in children
+IgA vasculitis,Henoch-Schonlein purpura
+IIH,Pseudotumor cerebri (idiopathic intracranial hypertension)
+Immune thrombocytopenic purpura,Immune thrombocytopenia (ITP)
+Impaired glucose tolerance,Prediabetes
+Impotence,Erectile dysfunction
+Inborn error of metabolism,Inherited metabolic disorders
+Incontinence, bowel,Fecal incontinence
+Incontinence, fecal,Fecal incontinence
+Incontinence, nighttime,Bed-wetting
+Incontinence, urinary,Urinary incontinence
+Infantile hemangioma,Hemangioma
+Infectious arthritis,Septic arthritis
+Infertility, female,Female infertility
+Infertility, male,Male infertility
+Inflammed gallbladder,Cholecystitis
+Inflammed pancreas,Pancreatitis
+Inflammed pericardium,Pericarditis
+Influenza, H1N1,H1N1 flu (swine flu)
+Influenza, swine flu,H1N1 flu (swine flu)
+Insulin resistance syndrome,Metabolic syndrome
+Intermittent claudication,Claudication
+Intestinal lipodystrophy,Whipple's disease
+Intraductal carcinoma,Ductal carcinoma in situ (DCIS)
+Intrahepatic cholestasis of pregnancy,Cholestasis of pregnancy
+Iron overload,Hemochromatosis
+Ischemia, intestinal,Intestinal ischemia
+Ischemic bone necrosis,Avascular necrosis (osteonecrosis)
+Ischemic priapism,Priapism
+Islet cell cancer,Pancreatic neuroendocrine tumors
+ITP,Immune thrombocytopenia (ITP)
+Jumper's knee,Patellar tendinitis
+Juvenile rheumatoid arthritis,Juvenile idiopathic arthritis
+Juvenile schizophrenia,Childhood schizophrenia
+Keratoconjunctivitis sicca,Dry eyes
+Keratosis, actinic,Actinic keratosis
+Keratosis, seborrheic,Seborrheic keratosis
+Ketoacidosis, diabetic,Diabetic ketoacidosis
+Kidney disease, chronic,Chronic kidney disease
+Kidney failure, acute,Acute kidney failure
+Kidney failure, chronic,Chronic kidney disease
+Kissing disease,Mononucleosis
+Klatskin tumor,Hilar cholangiocarcinoma
+KP,Keratosis pilaris
+Lactase deficiency,Lactose intolerance
+Lactation mastitis,Mastitis
+Lassa fever,Viral hemorrhagic fevers
+Lateral elbow tendinopathy,Tennis elbow
+Lateral epicondylitis,Tennis elbow
+Lateral epicondylosis,Tennis elbow
+LCIS,Lobular carcinoma in situ (LCIS)
+Leg fracture,Broken leg
+Legionellosis,Legionnaires' disease
+Lentigines, solar,Age spots (liver spots)
+Leukemia, acute lymphocytic,Acute lymphocytic leukemia
+Leukemia, acute myelogenous,Acute myelogenous leukemia
+Leukemia, chronic lymphocytic,Chronic lymphocytic leukemia
+Leukemia, chronic myelogenous,Chronic myelogenous leukemia
+Leukemia, general,Leukemia
+Leukemia, hairy cell,Hairy cell leukemia
+Lice, body,Body lice
+Lichen planus, oral,Oral lichen planus
+Lichen simplex chronicus,Neurodermatitis
+Lip cancer,Mouth cancer
+Lipodystrophy, intestinal,Whipple's disease
+Listeriosis,Listeria infection
+Liver failure, acute,Acute liver failure
+Liver spots,Age spots (liver spots)
+Liver, enlarged,Enlarged liver
+Localized scleroderma,Morphea
+Lockjaw,Tetanus
+Loss of bladder control,Urinary incontinence
+Lou Gehrig's disease,Amyotrophic lateral sclerosis (ALS)
+Low blood sugar,Hypoglycemia
+Low body temperature,Hypothermia
+Low platelet count,Thrombocytopenia
+Low testosterone,Male hypogonadism
+Low-flow priapism,Priapism
+Lung collapse,Atelectasis
+Lung collapse,Pneumothorax
+Lung disease, interstitial,Interstitial lung disease
+Lymph nodes, swollen,Swollen lymph nodes
+Lymphadenitis,Swollen lymph nodes
+Lymphadenitis, mesenteric,Mesenteric lymphadenitis
+Lymphoma, Hodgkin's,Hodgkin's lymphoma (Hodgkin's disease)
+Lymphoma, non-Hodgkin's,Non-Hodgkin's lymphoma
+Lymphoplasmacytic lymphoma,Waldenstrom macroglobulinemia
+Mad cow disease,Creutzfeldt-Jakob disease
+Major depressive disorder,Depression (major depressive disorder)
+Malignant fibrous histiocytoma,Undifferentiated pleomorphic sarcoma
+Malignant mesothelioma,Mesothelioma
+Mallet toe and hammertoe,Hammertoe and mallet toe
+MALS,Median arcuate ligament syndrome (MALS)
+Manic-depressive illness,Bipolar disorder
+Mastalgia,Breast pain
+MD,Muscular dystrophy
+ME/CFS,Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)
+Measles, German,Rubella
+Medial epicondylitis,Golfer's elbow
+Medial tibial stress syndrome,Shin splints
+Mediterranean anemia,Thalassemia
+Megacolon,Hirschsprung's disease
+Megaloblastic anemia,Vitamin deficiency anemia
+Melanoma of the eye,Eye melanoma
+MEN 2,Multiple endocrine neoplasia, type 2 (MEN 2)
+Meniscus tear,Torn meniscus
+Menorrhagia,Heavy menstrual bleeding
+Metastatic brain cancer,Brain metastases
+Methicillin-resistant staphylococcus aureus infection,MRSA infection
+MG,Myasthenia gravis
+MGUS,Monoclonal gammopathy of undetermined significance (MGUS)
+Microscopic hematuria,Blood in urine (hematuria)
+Miliaria,Heat rash
+Milk intolerance,Lactose intolerance
+Mono,Mononucleosis
+MS,Multiple sclerosis
+MSA,Multiple system atrophy (MSA)
+Mucocutaneous lymph node syndrome,Kawasaki disease
+Multiple endocrine neoplasia type 1,Multiple endocrine neoplasia, type 1 (MEN 1)
+Myalgic encephalomyelitis,Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)
+Myalgic encephalomyelitis/Chronic fatigue syndrome,Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)
+Myocardial infarction,Heart attack
+Myopia,Nearsightedness
+Nephroblastoma,Wilms tumor
+Neuralgia, postherpetic,Postherpetic neuralgia
+Neuralgia, trigeminal,Trigeminal neuralgia
+Neurilemmoma,Schwannoma
+Neurocardiogenic syncope,Vasovagal syncope
+Neuroendocrine carcinoma of the skin,Merkel cell carcinoma
+Neurofibrosarcoma,Malignant peripheral nerve sheath tumors
+Neuroma, acoustic,Acoustic neuroma
+Neuroma, Morton's,Morton's neuroma
+Neuroma, plantar,Morton's neuroma
+Neuromyelitis optica spectrum disorder,Neuromyelitis optica
+Neuropathy, autonomic,Autonomic neuropathy
+Neuropathy, diabetic,Diabetic neuropathy
+Neuropathy, hereditary motor and sensory,Charcot-Marie-Tooth disease
+Neuropathy, peripheral,Peripheral neuropathy
+Nevus,Moles
+Nicotine addiction,Nicotine dependence
+Nighttime incontinence,Bed-wetting
+NMO,Neuromyelitis optica
+NMOSD,Neuromyelitis optica
+Noctural enuresis,Bed-wetting
+Noise-related hearing loss,Hearing loss
+Nonischemic priapism,Priapism
+Nontropical sprue,Celiac disease
+Nonulcer dyspepsia,Functional dyspepsia
+Nose fracture,Broken nose
+Nymphomania,Compulsive sexual behavior
+OAB,Overactive bladder
+Obesity, childhood,Childhood obesity
+Obstetric cholestasis,Cholestasis of pregnancy
+Obstructive sleep apnea in children,Pediatric obstructive sleep apnea
+OCD,Obsessive-compulsive disorder (OCD)
+Ocular albinism,Albinism
+Oculocutaneous albinism,Albinism
+Oculosympathetic palsy,Horner syndrome
+ODD,Oppositional defiant disorder (ODD)
+Odontogenic tumors and cysts,Jaw tumors and cysts
+OHSS,Ovarian hyperstimulation syndrome
+Olfactory neuroblastoma,Esthesioneuroblastoma
+Onychomycosis,Nail fungus
+Oral cancer,Mouth cancer
+Oral candidiasis,Oral thrush
+Osteoarthritis, cervical,Cervical spondylosis
+Osteogenic sarcoma,Osteosarcoma
+Osteonecrosis,Avascular necrosis (osteonecrosis)
+Osteophytes,Bone spurs
+Otitis externa,Swimmer's ear
+Otitis media,Ear infection (middle ear)
+Outer ear infection,Swimmer's ear
+Overactive thyroid,Hyperthyroidism (overactive thyroid)
+Oxyphil cell carcinoma,Hurthle cell cancer
+PAD,Peripheral artery disease (PAD)
+PAES,Popliteal artery entrapment syndrome
+Pain, back,Back pain
+Pain, chest,Chest pain
+Pain, wrist,Wrist pain
+Painful bladder syndrome,Interstitial cystitis
+Painful periods,Menstrual cramps
+Palsy, Bell's,Bell's palsy
+Palsy, cerebral,Cerebral palsy
+Palsy, facial,Bell's palsy
+Pancreas inflammation,Pancreatitis
+PAPVR,Partial anomalous pulmonary venous return
+Paraneoplastic neurological disorder,Paraneoplastic syndromes of the nervous system
+Paraneoplastic neurological syndrome,Paraneoplastic syndromes of the nervous system
+Partial anomalous pulmonary venous connection,Partial anomalous pulmonary venous return
+Pathological gambling,Compulsive gambling
+Pathological laughter and crying,Pseudobulbar affect
+Pathological stealing,Kleptomania
+PBA,Pseudobulbar affect
+PCOS,Polycystic ovary syndrome (PCOS)
+PDA,Patent ductus arteriosus (PDA)
+Pediculosis capitis,Head lice
+Pelvic pain, chronic,Chronic pelvic pain
+Pelvic support problems, uterine prolapse,Uterine prolapse
+Perforated eardrum,Ruptured eardrum (perforated eardrum)
+Pericardial inflammation,Pericarditis
+Periodontal disease, gingivitis,Gingivitis
+Periodontal disease, periodontitis,Periodontitis
+Peripheral vascular disease,Peripheral artery disease (PAD)
+Pernicious anemia,Vitamin deficiency anemia
+Pernio,Chilblains
+Peroneal muscular atrophy,Charcot-Marie-Tooth disease
+Personality disorder, antisocial,Antisocial personality disorder
+Personality disorder, borderline,Borderline personality disorder
+Personality disorder, narcissistic,Narcissistic personality disorder
+Personality disorder, schizoid,Schizoid personality disorder
+Personality disorder, schizotypal,Schizotypal personality disorder
+Pertussis,Whooping cough
+Pes planus,Flatfeet
+Petit mal seizure,Absence seizure
+Pharyngitis,Sore throat
+Phlebitis,Thrombophlebitis
+Phobia, social,Social anxiety disorder (social phobia)
+Pick's disease,Frontotemporal dementia
+PID,Pelvic inflammatory disease (PID)
+Piles,Hemorrhoids
+Pilonidal dimple,Sacral dimple
+Pimples,Acne
+Pituitary insufficiency,Hypopituitarism
+Pityriasis versicolor,Tinea versicolor
+PKD,Polycystic kidney disease
+PKU,Phenylketonuria (PKU)
+Plantar neuroma,Morton's neuroma
+Pleuritis,Pleurisy
+PLS,Primary lateral sclerosis (PLS)
+Polyps, colon,Colon polyps
+Polyps, endometrial,Uterine polyps
+Polyps, nasal,Nasal polyps
+Polyps, stomach,Stomach polyps
+Polyps, uterine,Uterine polyps
+Pompholyx,Dyshidrosis
+Poor color vision,Color blindness
+Popliteal cyst,Baker cyst
+Post-cardiac injury syndrome,Dressler syndrome
+Post-chemotherapy cognitive impairment,Chemo brain
+Post-concussion syndrome,Persistent post-concussive symptoms (Post-concussion syndrome)
+Posterior prolapse,Posterior vaginal prolapse (rectocele)
+Postmyocardial infarction syndrome,Dressler syndrome
+Postural hypotension,Orthostatic hypotension (postural hypotension)
+Prader-Labhart-Willi syndrome,Prader-Willi syndrome
+Preexcitation syndrome,Wolff-Parkinson-White (WPW) syndrome
+Pregnancy-related hypertension,Preeclampsia
+Premature ovarian failure,Primary ovarian insufficiency
+Premature puberty,Precocious puberty
+Premenstrual syndrome,Premenstrual syndrome (PMS)
+Presbycusis,Hearing loss
+Pressure sore,Bedsores (pressure ulcers)
+Pressure ulcer,Bedsores (pressure ulcers)
+Prickly heat,Heat rash
+Primary adrenal insufficiency,Addison's disease
+Primary biliary cirrhosis,Primary biliary cholangitis
+Primary polycythemia,Polycythemia vera
+Prolapse, mitral valve,Mitral valve prolapse
+Prolapsed bladder,Anterior vaginal prolapse (cystocele)
+Prolapsed uterus,Uterine prolapse
+Prostate gland enlargement,Benign prostatic hyperplasia (BPH)
+Pruritis ani,Anal itching
+Pruritus,Itchy skin (pruritus)
+PTSD,Post-traumatic stress disorder (PTSD)
+Puffy eyes,Bags under eyes
+PVCs,Premature ventricular contractions (PVCs)
+PVD,Peripheral artery disease (PAD)
+PVPS,Post-vasectomy pain syndrome
+Pyelonephritis,Kidney infection
+RA,Rheumatoid arthritis
+Rapid gastric emptying,Dumping syndrome
+Rapid heartbeat,Tachycardia
+Rash, poison ivy,Poison ivy rash
+Reading disability, specific,Dyslexia
+Rebound headache,Medication overuse headaches
+Rectal inflammation,Proctitis
+Rectal itching,Anal itching
+Rectal ulcer,Solitary rectal ulcer syndrome
+Recurrent oral ulcers,Canker sore
+Red eye,Subconjunctival hemorrhage (broken blood vessel in eye)
+Reflux, bile,Bile reflux
+Reflux, vesicoureteral,Vesicoureteral reflux
+Regurgitation, aortic valve,Aortic valve regurgitation
+Regurgitation, mitral valve,Mitral valve regurgitation
+Reiter's syndrome,Reactive arthritis
+Renal cancer,Kidney cancer
+Renal failure, acute,Acute kidney failure
+Renal lithiasis,Kidney stones
+Retinopathy, diabetic,Diabetic retinopathy
+Rhinitis, allergic,Hay fever
+Rhinitis, nonallergic,Nonallergic rhinitis
+Rhinitis, vasomotor,Nonallergic rhinitis
+Rib fracture,Broken ribs
+Rift Valley fever,Viral hemorrhagic fevers
+Ringing in the ear,Tinnitus
+Ringworm of the foot,Athlete's foot
+RLS,Restless legs syndrome
+Road rage,Intermittent explosive disorder
+Round back,Kyphosis
+RSV,Respiratory syncytial virus (RSV)
+Rubeola,Measles
+Runner's knee,Patellofemoral pain syndrome
+Ruptured disk,Herniated disk
+SAD,Seasonal affective disorder (SAD)
+Salmonellosis,Salmonella infection
+Sarcoma, bone cancer,Bone cancer
+Sarcoma, soft tissue,Soft tissue sarcoma
+SBBO,Small intestinal bacterial overgrowth (SIBO)
+SCAD,Spontaneous coronary artery dissection (SCAD)
+Scalded mouth syndrome,Burning mouth syndrome
+Scarlatina,Scarlet fever
+Schizophrenia, adolescent,Childhood schizophrenia
+Schizophrenia, childhood,Childhood schizophrenia
+Schizophrenia, juvenile,Childhood schizophrenia
+SCI,Spinal cord injury
+Sclerosing cholangitis,Primary sclerosing cholangitis
+Sclerosis, multiple,Multiple sclerosis
+Sclerosis, systemic,Scleroderma
+Seasonal allergy,Hay fever
+Sebaceous cysts,Epidermoid cysts
+Secondary brain cancer,Brain metastases
+SEID,Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)
+Seizure disorder,Epilepsy
+Seizure, absence,Absence seizure
+Seizure, febrile,Febrile seizure
+Seizure, grand mal,Tonic-clonic (grand mal) seizure
+Seizure, petit mal,Absence seizure
+Seizure, temporal lobe,Temporal lobe seizure
+Self harming,Self-injury/cutting
+Septal defect, atrial,Atrial septal defect (ASD)
+Septal defect, atrioventricular,Atrioventricular canal defect
+Septal defect, ventricular,Ventricular septal defect (VSD)
+Severe acute respiratory syndrome,Severe acute respiratory syndrome (SARS)
+Severe brain injury, coma,Coma
+Sexual dysfunction, female,Female sexual dysfunction
+Sexual obsession,Compulsive sexual behavior
+Shoulder dislocation,Dislocated shoulder
+Shy-Drager syndrome,Multiple system atrophy (MSA)
+SIBO,Small intestinal bacterial overgrowth (SIBO)
+SIDS,Sudden infant death syndrome (SIDS)
+Sin Nombre virus infection,Hantavirus pulmonary syndrome
+Sinusitis, acute,Acute sinusitis
+Sinusitis, chronic,Chronic sinusitis
+Skin cancer, melanoma,Melanoma
+Skin writing,Dermatographia (Dermatographism)
+Skin, itchy,Itchy skin (pruritus)
+Skipped heartbeats,Heart palpitations
+Slapped cheek disease,Parvovirus infection
+Sleep apnea in children, obstructive,Pediatric obstructive sleep apnea
+Sleep apnea, central,Central sleep apnea
+Sleep apnea, obstructive,Obstructive sleep apnea
+Sleep terrors,Sleep terrors (night terrors)
+Sleepiness, daytime,Narcolepsy
+Sleeplessness,Insomnia
+Slipped disk,Herniated disk
+Slow heartbeat,Bradycardia
+Small bowel bacterial overgrowth,Small intestinal bacterial overgrowth (SIBO)
+Small bowel prolapse,Small bowel prolapse (enterocele)
+Small intestine prolapse,Small bowel prolapse (enterocele)
+Solar keratosis,Actinic keratosis
+Solar lentigines,Age spots (liver spots)
+Somnambulism,Sleepwalking
+Spasmodic torticollis,Cervical dystonia
+Specific reading disability,Dyslexia
+Spinal curvature,Scoliosis
+Splenomegaly,Enlarged spleen (splenomegaly)
+Spondylosis, cervical,Cervical spondylosis
+Stammering,Stuttering
+STDs,Sexually transmitted diseases (STDs)
+Steele-Richardson-Olszewski syndrome,Progressive supranuclear palsy
+Stein-Leventhal syndrome,Polycystic ovary syndrome (PCOS)
+Stenosing tenosynovitis,Trigger finger
+Stenosis, aortic valve,Aortic valve stenosis
+Stenosis, mitral valve,Mitral valve stenosis
+Stenosis, pulmonary valve,Pulmonary valve stenosis
+Stenosis, pyloric,Pyloric stenosis
+Stenosis, spinal,Spinal stenosis
+Stings, bee,Bee sting
+Stings, jellyfish,Jellyfish stings
+Stings, scorpion,Scorpion sting
+Stomach flu,Viral gastroenteritis (stomach flu)
+Stomach pain, nonulcer,Functional dyspepsia
+Stomatodynia,Burning mouth syndrome
+Stool holding,Encopresis
+Strawberry hemangioma,Hemangioma
+Stress cardiomyopathy,Broken heart syndrome
+Stump pain,Residual limb pain
+Subfertility,Infertility
+Substance abuse disorder,Drug addiction (substance use disorder)
+Substance use disorder,Drug addiction (substance use disorder)
+Suicide,Suicide and suicidal thoughts
+Sun poisoning,Polymorphous light eruption
+Sunken chest,Pectus excavatum
+Supranuclear palsy,Progressive supranuclear palsy
+SVT,Supraventricular tachycardia
+Sweating, abnormally excessive,Hyperhidrosis
+Swelling,Edema
+Syndrome X,Metabolic syndrome
+Synostosis,Craniosynostosis
+Systemic exertional intolerance disease,Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)
+Systemic lupus erythematosus,Lupus
+Systemic sclerosis,Scleroderma
+Takotsubo cardiomyopathy,Broken heart syndrome
+TAPVR,Total anomalous pulmonary venous return (TAPVR)
+TB,Tuberculosis
+TBI,Traumatic brain injury
+Tears, decreased production,Dry eyes
+Teeth grinding,Bruxism (teeth grinding)
+Temporal arteritis,Giant cell arteritis
+Temporomandibular disorders,TMJ disorders
+Temporomandibular joint disorders,TMJ disorders
+Tendinitis, Achilles,Achilles tendinitis
+Tendinitis, patellar,Patellar tendinitis
+Tenosynovitis, de Quervain's,De Quervain tenosynovitis
+Testicle, retractile,Retractile testicle
+Testicle, undescended,Undescended testicle
+Testosterone deficiency,Male hypogonadism
+TGA,Transient global amnesia
+Three-day measles,Rubella
+Thromboangiitis obliterans,Buerger disease
+Thrush, oral,Oral thrush
+Thyroid gland enlargement,Goiter
+Thyroid, overactive,Hyperthyroidism (overactive thyroid)
+Thyroiditis, chronic lymphocytic,Hashimoto's disease
+TIA,Transient ischemic attack (TIA)
+Tic douloureux,Trigeminal neuralgia
+Tinea barbae,Folliculitis
+Tinea capitis,Ringworm (scalp)
+Tinea corporis,Ringworm (body)
+Tinea cruris,Jock itch
+Tinea pedis,Athlete's foot
+TMD,TMJ disorders
+Toenail fungus,Nail fungus
+Tongue tie,Tongue-tie (ankyloglossia)
+Tonic-clonic seizure,Tonic-clonic (grand mal) seizure
+Tooth decay,Cavities/tooth decay
+Torsion, testicular,Testicular torsion
+Torticollis, spasmodic,Cervical dystonia
+Total anomalous pulmonary venous connection,Total anomalous pulmonary venous return (TAPVR)
+Toxemia,Preeclampsia
+Toxic epidermal necrolysis,TEN
+Transposition of great vessels,Transposition of the great arteries
+Traumatic grief,Complicated grief
+Trisomy 21 syndrome,Down syndrome
+Trisomy X,Triple X syndrome
+Trouble swallowing,Dysphagia
+Tumor, salivary gland,Salivary gland tumors
+Tympanic membrane perforation,Ruptured eardrum (perforated eardrum)
+Ulcer, aphthous,Canker sore
+Ulcer, peptic,Peptic ulcer
+Ulcer, rectal,Solitary rectal ulcer syndrome
+Ulnar-sided wrist pain,Ulnar wrist pain
+Uncontrollable laughter and crying,Pseudobulbar affect
+Underactive thyroid,Hypothyroidism (underactive thyroid)
+Under-eye puffiness,Bags under eyes
+Upset stomach,Indigestion
+Urinary tract infection,Urinary tract infection (UTI)
+Urine, blood in,Blood in urine (hematuria)
+Urticaria,Hives and angioedema
+Urticaria,Chronic hives
+Uterine cancer,Endometrial cancer
+Uterine leiomyoma,Uterine fibroids
+Uterine myoma,Uterine fibroids
+Uterus didelphys,Double uterus
+Vaginal candidiasis,Yeast infection (vaginal)
+Vaginal prolapse, posterior,Posterior vaginal prolapse (rectocele)
+Valvular heart disease,Heart valve disease
+Variant CJD,Creutzfeldt-Jakob disease
+Varicella,Chickenpox
+Varices, esophageal,Esophageal varices
+Variola,Smallpox
+Vasomotor rhinitis,Nonallergic rhinitis
+vCJD,Creutzfeldt-Jakob disease
+Velocardiofacial syndrome,DiGeorge syndrome (22q11.2 deletion syndrome)
+Venereal warts,Genital warts
+Ventricular premature contraction,Premature ventricular contractions (PVCs)
+Vestibular schwannoma,Acoustic neuroma
+V-fib,Ventricular fibrillation
+Vocal fold paralysis,Vocal cord paralysis
+VPCs,Premature ventricular contractions (PVCs)
+Warts, common,Common warts
+Warts, genital,Genital warts
+Warts, plantar,Plantar warts
+Warts, venereal,Genital warts
+Water on the knee,Swollen knee
+Wegener's granulomatosis,Granulomatosis with polyangiitis
+Wermer syndrome,Multiple endocrine neoplasia, type 1 (MEN 1)
+Wermer's syndrome,Multiple endocrine neoplasia, type 1 (MEN 1)
+White blood cell disorders in children,Pediatric white blood cell disorders
+Whiteheads,Acne
+Wisdom teeth, impacted,Impacted wisdom teeth
+Wolff-Parkinson-White accessory pathway-related tachycardia,Wolff-Parkinson-White (WPW) syndrome
+Wrist fracture,Broken wrist
+Xerosis,Dry skin
+Xerostomia,Dry mouth
+XXX syndrome,Triple X syndrome
+Yersinia pestis,Plague
+Zoster,Shingles
