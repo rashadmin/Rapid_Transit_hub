@@ -1,2 +1,13 @@
+Cardiologist
+Eye surgeon
+Gastroenterologist
+General Surgeon
+General Surgeon (for surgical intervention if needed)
+General surgeon
+Interventional radiologist
 Neurosurgeon
+Ophthalmologist
+Orthopedic surgeon
+Psychologist
+Pulmonologist
 Trauma surgeon

@@ -1,4 +1,3 @@
- Hemiparesis
 A fib
 ACL injury
 ARDS
@@ -309,9 +308,11 @@ Breast pain
 Broken ankle
 Broken arm
 Broken blood vessel in eye
+Broken bone
 Broken collarbone
 Broken foot
 Broken hand
+Broken heart
 Broken heart syndrome
 Broken hip
 Broken leg
@@ -1594,6 +1595,7 @@ Plantar
 Plantar fasciitis
 Plantar neuroma
 Plantar warts
+Pleural effusion
 Pleurisy
 Pleuritis
 Pls
