@@ -398,6 +398,7 @@ Chagas disease
 Charcot-Marie-Tooth disease
 Charcot-marie-tooth disease
 Chd
+Chemical Burn in the Eye
 Chemical dependency
 Chemo brain
 Chest
@@ -891,6 +892,7 @@ Growth plate fractures
 Guillain-Barre syndrome
 Guillain-barre syndrome
 Gum disease
+Gunshot wound to the head
 H. pylori infection
 H1N1 flu (swine flu)
 H1n1
@@ -2274,3 +2276,4 @@ Yersinia pestis
 Yips
 Zollinger-Ellison syndrome
 Zoster
+difficulty breathing

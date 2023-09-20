@@ -1,6 +1,6 @@
 import openai,sys
 import json
-openai.api_key = "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"
+openai.api_key = "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"
 
 def reformat_text(x):
     text = ""

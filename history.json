@@ -10,5 +10,23 @@
             "Cardiologist",
             "Psychologist"
         ]
+    },
+    {
+        "difficulty breathing": [
+            "pulmonologist",
+            "ENT specialist",
+            "anesthesiologist"
+        ]
+    },
+    {
+        "Chemical Burn in the Eye": [
+            "Ophthalmologist"
+        ]
+    },
+    {
+        "Gunshot wound to the head": [
+            "Neurosurgeon",
+            "General surgeon"
+        ]
     }
 ]

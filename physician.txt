@@ -1,4 +1,5 @@
 Cardiologist
+ENT specialist
 Eye surgeon
 Gastroenterologist
 General Surgeon
@@ -11,3 +12,5 @@ Orthopedic surgeon
 Psychologist
 Pulmonologist
 Trauma surgeon
+anesthesiologist
+pulmonologist
