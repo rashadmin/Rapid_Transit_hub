@@ -1,0 +1,2502 @@
+[
+  {
+    "Hospital Name": "RegionalUniversity Hospital",
+    "Distance (km)": 1140.9,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RiversideChildren's Hospital",
+    "Distance (km)": 1604.88,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "BlueMercy Hospital",
+    "Distance (km)": 1051.27,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RegionalHospital",
+    "Distance (km)": 4134.19,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SunsetHospital",
+    "Distance (km)": 867.38,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MercyHospital",
+    "Distance (km)": 7.45,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Women'sClinic",
+    "Distance (km)": 4826.3,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SacredClinic",
+    "Distance (km)": 223.27,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GreenHospital",
+    "Distance (km)": 1680.99,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "VeteransChildren's Hospital",
+    "Distance (km)": 3232.38,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Women'sHealth Center",
+    "Distance (km)": 4179.57,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MercyInstitute",
+    "Distance (km)": 1253.13,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SaintSurgical Center",
+    "Distance (km)": 4670.78,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Children'sHealth Center",
+    "Distance (km)": 3256.06,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Children'sCommunity Hospital",
+    "Distance (km)": 4107.8,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MetropolitanGeneral Hospital",
+    "Distance (km)": 4569.71,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CommunityChildren's Hospital",
+    "Distance (km)": 206.24,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RegionalInstitute",
+    "Distance (km)": 4667.72,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "OakWellness Center",
+    "Distance (km)": 4241.56,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GoldenSaint Hospital",
+    "Distance (km)": 2564.57,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Women'sWomen's Hospital",
+    "Distance (km)": 2291.56,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SaintCare",
+    "Distance (km)": 1385.73,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MetropolitanCare",
+    "Distance (km)": 10.86,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MountainRegional Medical Center",
+    "Distance (km)": 4706.95,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CountyRegional Medical Center",
+    "Distance (km)": 444.66,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "UniversitySurgical Center",
+    "Distance (km)": 2423.15,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "BlueMercy Hospital",
+    "Distance (km)": 2909.23,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MetropolitanMedical Center",
+    "Distance (km)": 3880.15,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MountainGeneral Hospital",
+    "Distance (km)": 3684.26,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GreenGroup",
+    "Distance (km)": 510.74,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "UniversityWomen's Hospital",
+    "Distance (km)": 4411.85,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GeneralRegional Medical Center",
+    "Distance (km)": 1071.03,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MemorialVeterans Hospital",
+    "Distance (km)": 3018.71,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GeneralCare",
+    "Distance (km)": 790.3,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GeneralGeneral Hospital",
+    "Distance (km)": 4338.12,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Women'sInstitute",
+    "Distance (km)": 1050.71,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Children'sCenter",
+    "Distance (km)": 2636.62,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "VeteransChildren's Hospital",
+    "Distance (km)": 1540.31,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "BlueHealth Center",
+    "Distance (km)": 2728.52,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GeneralHospital",
+    "Distance (km)": 1763.57,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CitySurgical Center",
+    "Distance (km)": 476.7,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SaintHealth Center",
+    "Distance (km)": 3136.54,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "BlueClinic",
+    "Distance (km)": 579.87,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SunsetUniversity Hospital",
+    "Distance (km)": 2482.51,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MemorialUniversity Hospital",
+    "Distance (km)": 2492.81,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "NationalGeneral Hospital",
+    "Distance (km)": 3255.66,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RegionalClinic",
+    "Distance (km)": 1438.65,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GoldenWellness Center",
+    "Distance (km)": 2309.67,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "NationalWellness Center",
+    "Distance (km)": 2527.83,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GreenRegional Medical Center",
+    "Distance (km)": 1089.01,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "OakInstitute",
+    "Distance (km)": 2686.56,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MountainHealth Center",
+    "Distance (km)": 2626.37,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RegionalMemorial Hospital",
+    "Distance (km)": 4648.83,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SunriseMedical Center",
+    "Distance (km)": 4364.76,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MemorialGroup",
+    "Distance (km)": 2211.61,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GreenWellness Center",
+    "Distance (km)": 4970.35,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "ParkHealth Center",
+    "Distance (km)": 3977.22,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "BlueCommunity Hospital",
+    "Distance (km)": 3957.95,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Children'sWellness Center",
+    "Distance (km)": 1205.79,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Children'sCommunity Hospital",
+    "Distance (km)": 3741.38,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SunsetCare",
+    "Distance (km)": 3436.01,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SunriseChildren's Hospital",
+    "Distance (km)": 405.97,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MercyChildren's Hospital",
+    "Distance (km)": 2999.77,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MemorialUniversity Hospital",
+    "Distance (km)": 2240.8,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RedwoodGeneral Hospital",
+    "Distance (km)": 3580.68,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CitySurgical Center",
+    "Distance (km)": 4343.16,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "OakMedical Center",
+    "Distance (km)": 832.73,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "UniversitySurgical Center",
+    "Distance (km)": 3008.66,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "ParkCenter",
+    "Distance (km)": 909.32,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Children'sWomen's Hospital",
+    "Distance (km)": 2306.27,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GoldenVeterans Hospital",
+    "Distance (km)": 3780.43,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GeneralMemorial Hospital",
+    "Distance (km)": 4783.04,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SaintMedical Center",
+    "Distance (km)": 1440.6,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "OakWomen's Hospital",
+    "Distance (km)": 622.0,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "ParkWellness Center",
+    "Distance (km)": 1810.22,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MountainHospital",
+    "Distance (km)": 1607.25,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SacredMercy Hospital",
+    "Distance (km)": 4402.85,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MercyInstitute",
+    "Distance (km)": 256.27,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "ParkWomen's Hospital",
+    "Distance (km)": 495.46,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RiversideWellness Center",
+    "Distance (km)": 4480.14,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RiversideGroup",
+    "Distance (km)": 4515.2,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CityHospital",
+    "Distance (km)": 941.07,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SunriseHospital",
+    "Distance (km)": 3318.8,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Children'sGeneral Hospital",
+    "Distance (km)": 852.99,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SaintCare",
+    "Distance (km)": 4530.34,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GoldenCare",
+    "Distance (km)": 3044.82,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CityCare",
+    "Distance (km)": 2634.9,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "OakWellness Center",
+    "Distance (km)": 254.69,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "ParkChildren's Hospital",
+    "Distance (km)": 2368.12,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Women'sSaint Hospital",
+    "Distance (km)": 3642.5,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MemorialCommunity Hospital",
+    "Distance (km)": 248.34,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CountyUniversity Hospital",
+    "Distance (km)": 3612.67,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SunriseWellness Center",
+    "Distance (km)": 3764.51,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Women'sChildren's Hospital",
+    "Distance (km)": 4201.91,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SacredWomen's Hospital",
+    "Distance (km)": 2592.94,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RiversideChildren's Hospital",
+    "Distance (km)": 4625.17,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "OakMemorial Hospital",
+    "Distance (km)": 1030.66,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "VeteransUniversity Hospital",
+    "Distance (km)": 392.84,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Children'sUniversity Hospital",
+    "Distance (km)": 3687.29,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "VeteransMercy Hospital",
+    "Distance (km)": 4717.16,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RegionalWellness Center",
+    "Distance (km)": 4577.48,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MountainClinic",
+    "Distance (km)": 663.96,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CountyChildren's Hospital",
+    "Distance (km)": 4978.98,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GeneralUniversity Hospital",
+    "Distance (km)": 935.38,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GreenSurgical Center",
+    "Distance (km)": 620.12,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MercyRegional Medical Center",
+    "Distance (km)": 2737.45,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SunriseWellness Center",
+    "Distance (km)": 4712.96,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RegionalGroup",
+    "Distance (km)": 3493.87,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CommunityGroup",
+    "Distance (km)": 2550.14,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GreenWomen's Hospital",
+    "Distance (km)": 4367.32,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RiversideGeneral Hospital",
+    "Distance (km)": 3617.81,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Children'sWellness Center",
+    "Distance (km)": 201.44,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "BlueSurgical Center",
+    "Distance (km)": 1787.11,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SunriseWomen's Hospital",
+    "Distance (km)": 3581.75,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Women'sChildren's Hospital",
+    "Distance (km)": 3314.61,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MemorialSaint Hospital",
+    "Distance (km)": 3779.94,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CommunityCare",
+    "Distance (km)": 689.29,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GoldenMemorial Hospital",
+    "Distance (km)": 2890.57,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MetropolitanInstitute",
+    "Distance (km)": 4306.76,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "UniversityMemorial Hospital",
+    "Distance (km)": 3465.58,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CountyRegional Medical Center",
+    "Distance (km)": 2051.08,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MercySurgical Center",
+    "Distance (km)": 2210.17,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "NationalMemorial Hospital",
+    "Distance (km)": 2241.83,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SunsetSaint Hospital",
+    "Distance (km)": 851.07,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MountainWomen's Hospital",
+    "Distance (km)": 715.33,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RegionalSaint Hospital",
+    "Distance (km)": 331.35,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GeneralMedical Center",
+    "Distance (km)": 2736.4,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MercyMercy Hospital",
+    "Distance (km)": 1972.09,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MemorialMedical Center",
+    "Distance (km)": 1748.32,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GreenMercy Hospital",
+    "Distance (km)": 2962.26,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RedwoodHealth Center",
+    "Distance (km)": 4285.91,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RiversideHealth Center",
+    "Distance (km)": 4378.06,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CountySurgical Center",
+    "Distance (km)": 1700.88,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SunsetClinic",
+    "Distance (km)": 1865.92,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MetropolitanGeneral Hospital",
+    "Distance (km)": 36.35,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GeneralSurgical Center",
+    "Distance (km)": 2781.44,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SaintVeterans Hospital",
+    "Distance (km)": 1333.77,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "OakWellness Center",
+    "Distance (km)": 4707.12,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GeneralHealth Center",
+    "Distance (km)": 4685.25,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RedwoodMedical Center",
+    "Distance (km)": 3489.33,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CityRegional Medical Center",
+    "Distance (km)": 3283.98,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RedwoodMemorial Hospital",
+    "Distance (km)": 2982.63,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RiversideClinic",
+    "Distance (km)": 122.44,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SacredClinic",
+    "Distance (km)": 729.62,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MercySaint Hospital",
+    "Distance (km)": 1883.09,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SunsetWomen's Hospital",
+    "Distance (km)": 4699.73,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MetropolitanHealth Center",
+    "Distance (km)": 4581.46,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Children'sRegional Medical Center",
+    "Distance (km)": 1686.65,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SunsetCommunity Hospital",
+    "Distance (km)": 472.75,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CommunityWellness Center",
+    "Distance (km)": 4702.29,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "VeteransUniversity Hospital",
+    "Distance (km)": 1421.69,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GreenMedical Center",
+    "Distance (km)": 2103.64,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SacredVeterans Hospital",
+    "Distance (km)": 2981.72,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SaintGroup",
+    "Distance (km)": 2496.54,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GeneralGroup",
+    "Distance (km)": 4295.87,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MercyGeneral Hospital",
+    "Distance (km)": 4256.04,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GoldenWellness Center",
+    "Distance (km)": 1652.42,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SacredClinic",
+    "Distance (km)": 4517.19,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MetropolitanMedical Center",
+    "Distance (km)": 924.6,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "OakCare",
+    "Distance (km)": 2126.42,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RegionalWellness Center",
+    "Distance (km)": 2366.39,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MercyMercy Hospital",
+    "Distance (km)": 1822.21,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Women'sWomen's Hospital",
+    "Distance (km)": 4233.61,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CountyChildren's Hospital",
+    "Distance (km)": 3247.67,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SaintChildren's Hospital",
+    "Distance (km)": 1152.91,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MountainCare",
+    "Distance (km)": 3659.03,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GoldenSaint Hospital",
+    "Distance (km)": 4767.21,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Women'sUniversity Hospital",
+    "Distance (km)": 4388.49,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GoldenMercy Hospital",
+    "Distance (km)": 4156.94,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "UniversityCommunity Hospital",
+    "Distance (km)": 4490.44,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CityMercy Hospital",
+    "Distance (km)": 2004.07,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MetropolitanWomen's Hospital",
+    "Distance (km)": 3959.85,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CommunityWellness Center",
+    "Distance (km)": 3531.76,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CitySurgical Center",
+    "Distance (km)": 2060.41,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RegionalHealth Center",
+    "Distance (km)": 1478.22,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CommunityGeneral Hospital",
+    "Distance (km)": 815.94,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CityRegional Medical Center",
+    "Distance (km)": 3342.87,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "VeteransGroup",
+    "Distance (km)": 767.12,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "OakGroup",
+    "Distance (km)": 3054.57,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SunsetMercy Hospital",
+    "Distance (km)": 3578.05,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SunsetGroup",
+    "Distance (km)": 1012.44,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "VeteransWellness Center",
+    "Distance (km)": 1715.28,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RiversideUniversity Hospital",
+    "Distance (km)": 2562.07,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RedwoodSurgical Center",
+    "Distance (km)": 2167.51,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SunriseCommunity Hospital",
+    "Distance (km)": 732.52,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "VeteransUniversity Hospital",
+    "Distance (km)": 2014.81,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SacredMercy Hospital",
+    "Distance (km)": 2886.92,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MemorialRegional Medical Center",
+    "Distance (km)": 3089.55,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GreenChildren's Hospital",
+    "Distance (km)": 1618.48,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "OakVeterans Hospital",
+    "Distance (km)": 2652.4,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MercySaint Hospital",
+    "Distance (km)": 2623.75,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GoldenMedical Center",
+    "Distance (km)": 772.11,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CityGroup",
+    "Distance (km)": 1228.45,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SacredHealth Center",
+    "Distance (km)": 4491.28,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RiversideMercy Hospital",
+    "Distance (km)": 963.32,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MountainClinic",
+    "Distance (km)": 1875.76,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Children'sUniversity Hospital",
+    "Distance (km)": 4703.23,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RedwoodCenter",
+    "Distance (km)": 874.77,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "UniversityClinic",
+    "Distance (km)": 4346.17,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "VeteransSaint Hospital",
+    "Distance (km)": 1298.09,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CityMemorial Hospital",
+    "Distance (km)": 2893.46,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MemorialVeterans Hospital",
+    "Distance (km)": 98.3,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RiversideMemorial Hospital",
+    "Distance (km)": 2183.63,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "ParkMemorial Hospital",
+    "Distance (km)": 1908.81,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Children'sCommunity Hospital",
+    "Distance (km)": 4068.87,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RegionalInstitute",
+    "Distance (km)": 1057.21,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CityVeterans Hospital",
+    "Distance (km)": 4304.3,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "VeteransSaint Hospital",
+    "Distance (km)": 1791.6,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Children'sUniversity Hospital",
+    "Distance (km)": 1246.79,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CountyWellness Center",
+    "Distance (km)": 3667.3,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Children'sRegional Medical Center",
+    "Distance (km)": 895.62,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CityWomen's Hospital",
+    "Distance (km)": 1229.69,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GeneralInstitute",
+    "Distance (km)": 428.1,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MemorialMercy Hospital",
+    "Distance (km)": 1038.46,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CountyInstitute",
+    "Distance (km)": 293.72,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RiversideHospital",
+    "Distance (km)": 2322.97,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RegionalHospital",
+    "Distance (km)": 643.2,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "ParkChildren's Hospital",
+    "Distance (km)": 2410.9,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MercyMedical Center",
+    "Distance (km)": 1489.52,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MercyWellness Center",
+    "Distance (km)": 3245.44,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "BlueMercy Hospital",
+    "Distance (km)": 291.38,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "NationalCommunity Hospital",
+    "Distance (km)": 1036.79,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GoldenInstitute",
+    "Distance (km)": 4048.69,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "BlueInstitute",
+    "Distance (km)": 2145.91,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Women'sCenter",
+    "Distance (km)": 2293.6,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SaintHospital",
+    "Distance (km)": 4204.03,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "VeteransVeterans Hospital",
+    "Distance (km)": 4097.72,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Women'sWellness Center",
+    "Distance (km)": 1200.6,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SacredSurgical Center",
+    "Distance (km)": 3903.05,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RegionalWellness Center",
+    "Distance (km)": 2602.31,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MercyWomen's Hospital",
+    "Distance (km)": 1627.49,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "OakVeterans Hospital",
+    "Distance (km)": 1692.58,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GoldenUniversity Hospital",
+    "Distance (km)": 1448.79,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "VeteransUniversity Hospital",
+    "Distance (km)": 3147.14,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CountyClinic",
+    "Distance (km)": 3302.24,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RedwoodSurgical Center",
+    "Distance (km)": 4161.09,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "OakMedical Center",
+    "Distance (km)": 626.53,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "ParkClinic",
+    "Distance (km)": 1799.45,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GreenInstitute",
+    "Distance (km)": 4986.41,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GeneralHospital",
+    "Distance (km)": 37.6,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SunsetInstitute",
+    "Distance (km)": 4004.75,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SacredSaint Hospital",
+    "Distance (km)": 3146.99,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GreenVeterans Hospital",
+    "Distance (km)": 481.45,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SaintInstitute",
+    "Distance (km)": 4043.76,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CountyUniversity Hospital",
+    "Distance (km)": 2044.78,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GreenUniversity Hospital",
+    "Distance (km)": 282.95,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MountainSaint Hospital",
+    "Distance (km)": 2318.8,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GreenSaint Hospital",
+    "Distance (km)": 2236.83,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MetropolitanSaint Hospital",
+    "Distance (km)": 4628.56,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SunsetMercy Hospital",
+    "Distance (km)": 3417.03,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GoldenHospital",
+    "Distance (km)": 4245.98,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SunriseRegional Medical Center",
+    "Distance (km)": 3999.77,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "ParkWomen's Hospital",
+    "Distance (km)": 47.75,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "BlueSurgical Center",
+    "Distance (km)": 88.19,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GeneralGeneral Hospital",
+    "Distance (km)": 2797.95,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CommunityMercy Hospital",
+    "Distance (km)": 1232.85,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MemorialGroup",
+    "Distance (km)": 2148.59,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SunsetGroup",
+    "Distance (km)": 244.55,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CommunityHospital",
+    "Distance (km)": 964.27,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SacredChildren's Hospital",
+    "Distance (km)": 3329.01,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MercyHospital",
+    "Distance (km)": 183.05,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RedwoodCare",
+    "Distance (km)": 2043.6,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GeneralRegional Medical Center",
+    "Distance (km)": 4365.17,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CityMedical Center",
+    "Distance (km)": 1515.93,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MercyGroup",
+    "Distance (km)": 2791.56,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SaintRegional Medical Center",
+    "Distance (km)": 3380.99,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "NationalClinic",
+    "Distance (km)": 3215.33,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "VeteransCare",
+    "Distance (km)": 4053.9,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CityHealth Center",
+    "Distance (km)": 194.86,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Women'sHealth Center",
+    "Distance (km)": 1553.47,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "BlueMedical Center",
+    "Distance (km)": 4909.93,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CountyGroup",
+    "Distance (km)": 2464.4,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SunriseCare",
+    "Distance (km)": 4910.76,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RedwoodSaint Hospital",
+    "Distance (km)": 3161.82,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "UniversityMemorial Hospital",
+    "Distance (km)": 392.4,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CountyChildren's Hospital",
+    "Distance (km)": 3196.26,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GreenHospital",
+    "Distance (km)": 3071.39,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "BlueWomen's Hospital",
+    "Distance (km)": 1127.68,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GreenCenter",
+    "Distance (km)": 4520.96,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CountyMedical Center",
+    "Distance (km)": 3240.12,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GoldenHealth Center",
+    "Distance (km)": 1710.19,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SunsetMercy Hospital",
+    "Distance (km)": 4660.92,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "NationalHospital",
+    "Distance (km)": 586.9,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RiversideInstitute",
+    "Distance (km)": 1029.38,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GreenGeneral Hospital",
+    "Distance (km)": 2051.34,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "VeteransClinic",
+    "Distance (km)": 3532.03,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CountyClinic",
+    "Distance (km)": 1240.66,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CityCare",
+    "Distance (km)": 1361.79,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SunsetSaint Hospital",
+    "Distance (km)": 4092.08,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CityMemorial Hospital",
+    "Distance (km)": 622.22,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Women'sCare",
+    "Distance (km)": 1.01,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "UniversityHospital",
+    "Distance (km)": 2176.24,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "OakWellness Center",
+    "Distance (km)": 4812.88,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CountyWomen's Hospital",
+    "Distance (km)": 363.82,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CommunityChildren's Hospital",
+    "Distance (km)": 135.19,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GreenClinic",
+    "Distance (km)": 984.79,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Children'sMercy Hospital",
+    "Distance (km)": 1483.85,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "UniversitySurgical Center",
+    "Distance (km)": 2470.22,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "UniversityCenter",
+    "Distance (km)": 4842.63,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SunriseGeneral Hospital",
+    "Distance (km)": 58.06,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SaintMedical Center",
+    "Distance (km)": 2231.73,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MemorialSurgical Center",
+    "Distance (km)": 1025.71,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SunsetCare",
+    "Distance (km)": 1033.41,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MemorialMedical Center",
+    "Distance (km)": 3375.51,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Women'sMercy Hospital",
+    "Distance (km)": 1112.73,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "OakMercy Hospital",
+    "Distance (km)": 1689.89,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CityCare",
+    "Distance (km)": 2379.95,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SaintUniversity Hospital",
+    "Distance (km)": 2864.7,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "UniversityWellness Center",
+    "Distance (km)": 2996.09,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "NationalWellness Center",
+    "Distance (km)": 3790.2,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "BlueCare",
+    "Distance (km)": 3578.02,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "ParkChildren's Hospital",
+    "Distance (km)": 3115.98,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "OakClinic",
+    "Distance (km)": 1191.17,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "UniversityWellness Center",
+    "Distance (km)": 2015.28,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "NationalChildren's Hospital",
+    "Distance (km)": 3847.6,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MountainWellness Center",
+    "Distance (km)": 2757.19,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MetropolitanUniversity Hospital",
+    "Distance (km)": 3022.18,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GeneralGeneral Hospital",
+    "Distance (km)": 1318.19,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CountyClinic",
+    "Distance (km)": 1900.91,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RiversideRegional Medical Center",
+    "Distance (km)": 227.67,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RedwoodMercy Hospital",
+    "Distance (km)": 2494.55,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RiversideCommunity Hospital",
+    "Distance (km)": 1009.19,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SunriseMedical Center",
+    "Distance (km)": 2015.5,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CommunityWellness Center",
+    "Distance (km)": 2771.64,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GoldenRegional Medical Center",
+    "Distance (km)": 3887.42,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CityInstitute",
+    "Distance (km)": 1510.34,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "VeteransHospital",
+    "Distance (km)": 4177.97,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "UniversityUniversity Hospital",
+    "Distance (km)": 2838.12,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MountainInstitute",
+    "Distance (km)": 3426.69,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GeneralChildren's Hospital",
+    "Distance (km)": 4009.52,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "UniversityWomen's Hospital",
+    "Distance (km)": 4173.66,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GreenSaint Hospital",
+    "Distance (km)": 1039.8,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "OakClinic",
+    "Distance (km)": 2517.85,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SaintChildren's Hospital",
+    "Distance (km)": 3959.97,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SunriseCare",
+    "Distance (km)": 4140.98,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SunriseInstitute",
+    "Distance (km)": 330.12,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SacredMedical Center",
+    "Distance (km)": 2074.57,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GeneralCenter",
+    "Distance (km)": 3636.95,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GoldenVeterans Hospital",
+    "Distance (km)": 2004.04,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MercyMemorial Hospital",
+    "Distance (km)": 3707.32,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CityRegional Medical Center",
+    "Distance (km)": 3311.05,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Children'sClinic",
+    "Distance (km)": 3334.84,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "NationalInstitute",
+    "Distance (km)": 3530.93,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CityGroup",
+    "Distance (km)": 4756.86,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SunriseMemorial Hospital",
+    "Distance (km)": 1990.52,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RegionalGeneral Hospital",
+    "Distance (km)": 1754.41,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RiversideSaint Hospital",
+    "Distance (km)": 779.83,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Women'sRegional Medical Center",
+    "Distance (km)": 2479.63,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CountyHealth Center",
+    "Distance (km)": 31.6,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GeneralHealth Center",
+    "Distance (km)": 3047.44,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RegionalUniversity Hospital",
+    "Distance (km)": 4474.93,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MountainRegional Medical Center",
+    "Distance (km)": 1588.71,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MetropolitanMedical Center",
+    "Distance (km)": 2258.5,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MountainVeterans Hospital",
+    "Distance (km)": 4116.35,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RedwoodClinic",
+    "Distance (km)": 811.41,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RegionalSaint Hospital",
+    "Distance (km)": 3934.95,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MemorialMedical Center",
+    "Distance (km)": 1931.31,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Children'sHealth Center",
+    "Distance (km)": 3858.19,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GeneralCenter",
+    "Distance (km)": 3146.35,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MountainWellness Center",
+    "Distance (km)": 689.09,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MetropolitanMemorial Hospital",
+    "Distance (km)": 3018.79,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CityWellness Center",
+    "Distance (km)": 3224.97,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "BlueUniversity Hospital",
+    "Distance (km)": 1384.03,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Children'sMercy Hospital",
+    "Distance (km)": 4497.77,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CommunityMemorial Hospital",
+    "Distance (km)": 4578.78,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MemorialInstitute",
+    "Distance (km)": 4135.12,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CityGeneral Hospital",
+    "Distance (km)": 1202.73,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "OakVeterans Hospital",
+    "Distance (km)": 2523.96,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "NationalInstitute",
+    "Distance (km)": 1684.53,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "UniversitySaint Hospital",
+    "Distance (km)": 2637.57,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CommunityRegional Medical Center",
+    "Distance (km)": 2667.86,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MountainChildren's Hospital",
+    "Distance (km)": 977.13,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RedwoodChildren's Hospital",
+    "Distance (km)": 3478.87,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GreenCare",
+    "Distance (km)": 4144.16,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "OakGroup",
+    "Distance (km)": 4132.5,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "UniversityGeneral Hospital",
+    "Distance (km)": 3435.65,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MercySurgical Center",
+    "Distance (km)": 4743.57,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SaintMedical Center",
+    "Distance (km)": 4932.66,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SunriseHospital",
+    "Distance (km)": 1734.25,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "NationalHospital",
+    "Distance (km)": 387.02,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "ParkCare",
+    "Distance (km)": 4122.7,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GoldenVeterans Hospital",
+    "Distance (km)": 3225.93,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "OakCommunity Hospital",
+    "Distance (km)": 4455.13,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "NationalMedical Center",
+    "Distance (km)": 515.78,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "BlueCare",
+    "Distance (km)": 193.76,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Children'sWellness Center",
+    "Distance (km)": 2040.44,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Children'sSaint Hospital",
+    "Distance (km)": 2851.37,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MountainChildren's Hospital",
+    "Distance (km)": 3799.58,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MetropolitanUniversity Hospital",
+    "Distance (km)": 3351.94,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Children'sGroup",
+    "Distance (km)": 4880.19,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "VeteransCare",
+    "Distance (km)": 2601.72,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GoldenCenter",
+    "Distance (km)": 379.91,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SacredMercy Hospital",
+    "Distance (km)": 668.66,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "ParkHospital",
+    "Distance (km)": 1094.06,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Women'sSaint Hospital",
+    "Distance (km)": 4160.5,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Children'sVeterans Hospital",
+    "Distance (km)": 2818.45,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "BlueInstitute",
+    "Distance (km)": 453.63,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "VeteransWellness Center",
+    "Distance (km)": 760.67,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GeneralCare",
+    "Distance (km)": 648.94,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Children'sGeneral Hospital",
+    "Distance (km)": 2816.98,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Children'sMercy Hospital",
+    "Distance (km)": 2279.3,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "ParkCenter",
+    "Distance (km)": 4462.64,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GoldenHospital",
+    "Distance (km)": 1059.82,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "ParkHealth Center",
+    "Distance (km)": 993.19,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "ParkHospital",
+    "Distance (km)": 2668.22,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Women'sMemorial Hospital",
+    "Distance (km)": 4663.32,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CountyMedical Center",
+    "Distance (km)": 1190.12,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "NationalHospital",
+    "Distance (km)": 2341.25,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MercyRegional Medical Center",
+    "Distance (km)": 4097.68,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GoldenRegional Medical Center",
+    "Distance (km)": 2260.43,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "OakChildren's Hospital",
+    "Distance (km)": 1290.31,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CountyCenter",
+    "Distance (km)": 3394.53,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Women'sCenter",
+    "Distance (km)": 4081.24,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SaintGroup",
+    "Distance (km)": 2757.79,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MetropolitanWellness Center",
+    "Distance (km)": 547.33,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "NationalVeterans Hospital",
+    "Distance (km)": 715.89,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MetropolitanCenter",
+    "Distance (km)": 287.86,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "OakHospital",
+    "Distance (km)": 2083.65,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GeneralSaint Hospital",
+    "Distance (km)": 882.28,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RiversideCenter",
+    "Distance (km)": 511.11,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GeneralUniversity Hospital",
+    "Distance (km)": 2550.97,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CityHospital",
+    "Distance (km)": 1958.8,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CommunityCare",
+    "Distance (km)": 2575.6,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SunsetCommunity Hospital",
+    "Distance (km)": 2954.03,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "OakGeneral Hospital",
+    "Distance (km)": 408.23,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "VeteransWellness Center",
+    "Distance (km)": 4409.38,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SaintGeneral Hospital",
+    "Distance (km)": 2398.79,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SacredVeterans Hospital",
+    "Distance (km)": 211.28,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CommunityWomen's Hospital",
+    "Distance (km)": 2739.46,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CommunityVeterans Hospital",
+    "Distance (km)": 2834.61,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "BlueMemorial Hospital",
+    "Distance (km)": 2530.6,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SunsetVeterans Hospital",
+    "Distance (km)": 133.46,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "ParkChildren's Hospital",
+    "Distance (km)": 2255.11,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Children'sGeneral Hospital",
+    "Distance (km)": 1941.59,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RiversideHospital",
+    "Distance (km)": 137.95,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MountainWellness Center",
+    "Distance (km)": 3666.17,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RedwoodMemorial Hospital",
+    "Distance (km)": 4189.44,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CityMemorial Hospital",
+    "Distance (km)": 923.93,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SaintCenter",
+    "Distance (km)": 585.8,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RiversideWellness Center",
+    "Distance (km)": 4005.73,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MemorialWellness Center",
+    "Distance (km)": 564.25,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RiversideHospital",
+    "Distance (km)": 2079.2,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MercySaint Hospital",
+    "Distance (km)": 2299.42,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Women'sRegional Medical Center",
+    "Distance (km)": 3444.9,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MercyHospital",
+    "Distance (km)": 4973.72,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RegionalSurgical Center",
+    "Distance (km)": 3806.62,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Women'sHospital",
+    "Distance (km)": 2915.59,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "VeteransClinic",
+    "Distance (km)": 2778.43,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RedwoodInstitute",
+    "Distance (km)": 4344.1,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RegionalSurgical Center",
+    "Distance (km)": 1125.4,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "NationalChildren's Hospital",
+    "Distance (km)": 2815.24,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CommunityChildren's Hospital",
+    "Distance (km)": 2578.92,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CityCenter",
+    "Distance (km)": 4189.21,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SacredRegional Medical Center",
+    "Distance (km)": 1631.9,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MountainRegional Medical Center",
+    "Distance (km)": 575.08,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GoldenCenter",
+    "Distance (km)": 1195.47,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MercyMedical Center",
+    "Distance (km)": 3763.27,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "NationalVeterans Hospital",
+    "Distance (km)": 4098.37,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "VeteransUniversity Hospital",
+    "Distance (km)": 2735.0,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CityCare",
+    "Distance (km)": 3789.39,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "ParkSurgical Center",
+    "Distance (km)": 4951.05,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Women'sWellness Center",
+    "Distance (km)": 272.66,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CityRegional Medical Center",
+    "Distance (km)": 943.36,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GoldenMercy Hospital",
+    "Distance (km)": 3728.01,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CountyHealth Center",
+    "Distance (km)": 4689.55,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MountainHospital",
+    "Distance (km)": 2442.05,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RedwoodSurgical Center",
+    "Distance (km)": 1211.88,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "BlueMemorial Hospital",
+    "Distance (km)": 2913.87,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RiversideCommunity Hospital",
+    "Distance (km)": 2358.46,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "OakWellness Center",
+    "Distance (km)": 1443.05,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "ParkHealth Center",
+    "Distance (km)": 1124.42,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Women'sMercy Hospital",
+    "Distance (km)": 3324.13,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CommunityInstitute",
+    "Distance (km)": 3917.71,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MemorialHealth Center",
+    "Distance (km)": 4593.13,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RedwoodUniversity Hospital",
+    "Distance (km)": 1410.86,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CityHealth Center",
+    "Distance (km)": 2079.23,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "OakMedical Center",
+    "Distance (km)": 4102.95,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "OakSaint Hospital",
+    "Distance (km)": 4320.45,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "VeteransSurgical Center",
+    "Distance (km)": 725.44,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CommunitySurgical Center",
+    "Distance (km)": 1388.55,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "MetropolitanWomen's Hospital",
+    "Distance (km)": 4152.15,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GreenMercy Hospital",
+    "Distance (km)": 305.09,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "UniversityVeterans Hospital",
+    "Distance (km)": 2087.58,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "NationalHospital",
+    "Distance (km)": 3856.67,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SaintMercy Hospital",
+    "Distance (km)": 4567.88,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "RiversideWellness Center",
+    "Distance (km)": 2944.13,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GoldenGeneral Hospital",
+    "Distance (km)": 1443.49,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "ParkGroup",
+    "Distance (km)": 4899.16,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CommunityMemorial Hospital",
+    "Distance (km)": 874.08,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SunriseVeterans Hospital",
+    "Distance (km)": 542.58,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "BlueWomen's Hospital",
+    "Distance (km)": 4015.39,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "BlueWellness Center",
+    "Distance (km)": 2479.85,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SacredRegional Medical Center",
+    "Distance (km)": 4101.93,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "CommunityChildren's Hospital",
+    "Distance (km)": 3961.93,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SunriseClinic",
+    "Distance (km)": 2746.76,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "SaintMedical Center",
+    "Distance (km)": 350.93,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GreenCenter",
+    "Distance (km)": 457.56,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "VeteransWomen's Hospital",
+    "Distance (km)": 3228.92,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "Women'sChildren's Hospital",
+    "Distance (km)": 2922.67,
+    "Is Available": false
+  },
+  {
+    "Hospital Name": "GeneralInstitute",
+    "Distance (km)": 4508.15,
+    "Is Available": false
+  }
+]

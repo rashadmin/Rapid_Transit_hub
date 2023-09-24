@@ -7,12 +7,13 @@ video_url ={'Checking for responsiveness,CPR,breathing (PEDIATRIC)':'https://you
 'Cpr Infant less than 1 year':'https://youtu.be/fJKHNh2BkQE?list=PLf-OY7KYIoQrPGSiB63d3zi1y5OpMNLlf'}
 
 import streamlit as st
+import numpy as np
 import openai
 import time as t
 import random as rn
 from threading import Timer
 from functions import get_response,return_output,get_completion_from_messages,timer
-openai.api_key = "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"
+openai.api_key = "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"
 
 
 st.title("RAPID CARE HUB")
@@ -27,12 +28,14 @@ if 'json' not in st.session_state:
     st.session_state.json = data_dict
     st.session_state.count = 0
 if 'metric' not in st.session_state:
+    st.session_state.hospital_added_index = np.array([])
     st.session_state.no_of_acceptance = 0
-    st.session_state.hospital_count = 0
+    st.session_state.hospital_count = 0#len(st.session_state.hospital_added_index)
     st.session_state.average = 0 
+    st.session_state.no_of_hospital =0
     st.session_state.start = 0
     st.session_state.add_hospital = 0
-    st.session_state.metric = st.empty() #st.metric('Hospital', f'{st.session_state.hospital_count}/{st.session_state.no_of_acceptance}', delta=0, delta_color="off", help=None, label_visibility="visible")
+    st.session_state.metric = st.metric('Hospital',f'{st.session_state.hospital_count}/{st.session_state.no_of_hospital}',delta=st.session_state.add_hospital,delta_color="off", help=None,label_visibility="visible")
 
 
 st.markdown("### THE INFORMATION TO BE SENT TO THE HOSPITAL")
@@ -82,11 +85,12 @@ for message in st.session_state.messages:
 if prompt:= st.chat_input("What's Your Emergency?"):
     if st.session_state.count == 0:
         with st.status("Sending Data ..."):
-            st.session_state.no_of_hospital = rn.randint(25,50)
-            st.session_state.no_of_acceptance = rn.randint(1,st.session_state.no_of_hospital)
+            st.session_state.no_of_hospital = rn.randint(250,500)
+            st.session_state.no_of_acceptance = rn.randint(1,st.session_state.no_of_hospital+1)
             st.session_state.average = 60/st.session_state.no_of_acceptance
             st.session_state.start = 0
-            st.session_state.hospital_count = 0
+            st.session_state.hospital_added_index = np.array([])
+            st.session_state.hospital_count = len(st.session_state.hospital_added_index)
             json_string = get_response(prompt)
        	    data_dict = return_output(json_string)
         
@@ -108,15 +112,25 @@ if prompt:= st.chat_input("What's Your Emergency?"):
                 message_placeholder.markdown(full_response + "▌")
                 message_placeholder.markdown(full_response)
     st.session_state.messages.append({"role": "assistant", "content": full_response})
-    
     while st.session_state.start < 60:
-        st.write(st.session_state.start)
-        add_time = int(st.session_state.average)
-        st.session_state.add_hospital = rn.randint(1,4)
+        #st.write(st.session_state.no_of_acceptance)
+        add_time = rn.randint(1,int(st.session_state.average)+1)
+        st.session_state.add_hospital = rn.randrange(-2,6)
         st.session_state.start+=add_time
-        t.sleep(add_time)
         #t = Timer(st.session_state.start, timer,[st.session_state.add_hospital]).start()
-        st.session_state.hospital_count += timer(st.session_state.add_hospital,st.session_state.add_hospital,st.session_state.no_of_acceptance)
-        st.session_state.metric.metric('Hospital', f'{st.session_state.hospital_count}/{st.session_state.no_of_hospital}',delta=st.session_state.add_hospital, delta_color="normal", help=None,label_visibility="visible")
-        #st.rerun()
+        try:
+            s = timer(st.session_state.hospital_count,st.session_state.add_hospital,st.session_state.no_of_acceptance,st.session_state.hospital_added_index)[0]
+            st.session_state.add_hospital = s[0]
+        except TypeError:
+            pass
+        st.write(st.session_state.hospital_count,st.session_state.add_hospital,st.session_state.no_of_acceptance,st.session_state.hospital_added_index)
+        
+        #st.write(st.session_state.add_hospital)
+        if st.session_state.add_hospital is not None:
+            st.session_state.hospital_count += st.session_state.add_hospital
+         #   st.write(st.session_state.add_hospital)
+            st.session_state.metric.metric('Hospital',f'{st.session_state.hospital_count}/{st.session_state.no_of_hospital}',delta=st.session_state.add_hospital,delta_color="normal", help=None,label_visibility="visible")
+            t.sleep(add_time)
+            
+            
 
