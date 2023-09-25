@@ -13,7 +13,7 @@ import time as t
 import random as rn
 from threading import Timer
 from functions import get_response,return_output,get_completion_from_messages,timer
-openai.api_key = "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"
+openai.api_key = "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"
 
 
 st.title("RAPID CARE HUB")
@@ -119,18 +119,17 @@ if prompt:= st.chat_input("What's Your Emergency?"):
         st.session_state.start+=add_time
         #t = Timer(st.session_state.start, timer,[st.session_state.add_hospital]).start()
         try:
-            s = timer(st.session_state.hospital_count,st.session_state.add_hospital,st.session_state.no_of_acceptance,st.session_state.hospital_added_index)[0]
-            st.session_state.add_hospital = s[0]
+            s = timer(st.session_state.hospital_count,st.session_state.add_hospital,st.session_state.no_of_acceptance,st.session_state.hospital_added_index)#0]
+            #return none
+            if (s[0] is not None) and (s[1] is not None):
+                st.session_state.add_hospital = s[0]
+                st.session_state.hospital_added_index = s[1]
+                st.session_state.hospital_count += st.session_state.add_hospital
+                st.session_state.metric.metric('Hospital',f'{st.session_state.hospital_count}/{st.session_state.no_of_hospital}',delta=st.session_state.add_hospital,delta_color="normal", help=None,label_visibility="visible")
+                t.sleep(add_time)
+            else:
+                st.write('we don')
         except TypeError:
-            pass
-        st.write(st.session_state.hospital_count,st.session_state.add_hospital,st.session_state.no_of_acceptance,st.session_state.hospital_added_index)
-        
-        #st.write(st.session_state.add_hospital)
-        if st.session_state.add_hospital is not None:
-            st.session_state.hospital_count += st.session_state.add_hospital
-         #   st.write(st.session_state.add_hospital)
-            st.session_state.metric.metric('Hospital',f'{st.session_state.hospital_count}/{st.session_state.no_of_hospital}',delta=st.session_state.add_hospital,delta_color="normal", help=None,label_visibility="visible")
-            t.sleep(add_time)
-            
+            st.write('lol')
             
 

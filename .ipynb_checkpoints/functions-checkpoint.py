@@ -63,7 +63,7 @@ def timer(hospital_count,add_hospital,no_of_acceptance,hospital_added_index):
             except ValueError:
                 return None,None
         elif add_hospital >0:
-            print(len(hospital_added_index))
+            #print(len(hospital_added_index))
             if len(hospital_added_index)==0:
                 hospital_added_index = np.random.choice(hospital_index,size=add_hospital)
             else:
