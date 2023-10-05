@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Technical Overview: Rapid Care Hub</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+
+        .container {
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            color: #e74c3c;
+            font-size: 36px;
+            margin-bottom: 20px;
+        }
+
+        p {
+            font-size: 18px;
+            margin-bottom: 15px;
+        }
+
+        ul {
+            margin-left: 20px;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-center">Technical Overview of Rapid Care Hub</h1>
+        <p>Rapid Care Hub is a groundbreaking project in the field of emergency response technology. This technical overview provides software engineers and developers with insights into its architecture, core functionalities, and technologies used.</p>
+        <h3>System Architecture</h3>
+        <ul>
+            <li>User Interface (UI): The web-based UI is built using Streamlit for its simplicity and responsiveness.</li>
+            <li>Chatbot Integration: An AI-powered chatbot, driven by OpenAI's GPT-3.5 Turbo, processes user inputs and offers real-time guidance.</li>
+            <li>Hospital Coordination: While a prototype, it simulates hospital coordination by randomly selecting hospitals from a JSON file and identifying the nearest one based on user location.</li>
+            <li>Real-time Updates: Users can monitor hospital interactions, distances, and details through asynchronous operations and timer functions.</li>
+        </ul>
+        <h3>Key Technologies and Tools</h3>
+        <ul>
+            <li>Streamlit: The user interface is developed using Streamlit for its simplicity and rapid prototyping capabilities.</li>
+            <li>OpenAI GPT-3.5 Turbo: The AI chatbot integration relies on OpenAI's GPT-3.5 Turbo for natural language understanding and generation.</li>
+            <li>Bootstrap and CSS: The UI is styled using Bootstrap and custom CSS for an attractive and responsive design.</li>
+            <li>JSON Data: Hospital data is stored in JSON format, facilitating retrieval and manipulation.</li>
+        </ul>
+        <h3>Development Highlights</h3>
+        <ul>
+            <li>Multi-threading: The app employs multi-threading for concurrent execution of chatbot and hospital coordination processes, enhancing responsiveness.</li>
+            <li>Exception Handling: Robust error handling ensures graceful resolution of issues during execution.</li>
+            <li>Simulated Hospital Coordination: As a prototype, the app simulates hospital coordination by randomly selecting and identifying the nearest hospital based on distance.</li>
+        </ul>
+        <p><strong>Conclusion:</strong> Rapid Care Hub is an exciting project that demonstrates the potential of technology in emergency response. While currently a prototype, it showcases AI, real-time updates, and user-friendly design, with future plans to establish real hospital connections for life-saving assistance during medical emergencies.</p>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
+

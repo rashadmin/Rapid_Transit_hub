@@ -9,14 +9,21 @@ video_url ={'Checking for responsiveness,CPR,breathing (PEDIATRIC)':'https://you
 import streamlit as st
 import numpy as np
 import openai
+import json
 import time as t
 import random as rn
 from threading import Timer
 from functions import get_response,return_output,get_completion_from_messages,timer
-openai.api_key = "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"
+openai.api_key = "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"
 
 
 st.title("RAPID CARE HUB")
+col1, col2, col3 = st.columns(3)
+
+if "shared" not in st.session_state:
+    st.session_state["shared"] = True
+
+
 if 'json' not in st.session_state:
     data_dict = {"Situation": None,
               "Age": None,
@@ -34,8 +41,18 @@ if 'metric' not in st.session_state:
     st.session_state.average = 0 
     st.session_state.no_of_hospital =0
     st.session_state.start = 0
+    st.session_state.in_km = 0
     st.session_state.add_hospital = 0
-    st.session_state.metric = st.metric('Hospital',f'{st.session_state.hospital_count}/{st.session_state.no_of_hospital}',delta=st.session_state.add_hospital,delta_color="off", help=None,label_visibility="visible")
+    st.session_state.hospital_name = None
+    
+    try:
+        with open('hospital_data.json', "r") as json_file:
+            st.session_state.data = np.array(json.load(json_file))
+    except FileNotFoundError:
+        st.session_state.data = np.array([])
+    st.session_state.metric = col1.metric('No of Hospital Accepted',f'{st.session_state.hospital_count}/{st.session_state.no_of_hospital}',delta=st.session_state.add_hospital,delta_color="off", help=None,label_visibility="visible")
+    st.session_state.distance = col2.metric('Distance',f'{st.session_state.in_km}',delta=None)
+    st.session_state.name =  col3.metric('Hospital Name',f'{st.session_state.hospital_name}',delta=None)
 
 
 st.markdown("### THE INFORMATION TO BE SENT TO THE HOSPITAL")
@@ -49,7 +66,7 @@ if "openai_model" not in st.session_state:
 
 
 
-st.json(st.session_state.json)
+st.json(st.session_state.json,expanded=False)
     
 # Initialize chat history
 if "messages" not in st.session_state:
@@ -72,8 +89,12 @@ if "messages" not in st.session_state:
     st.session_state.messages.append({"role": "system", "content": bot})
     st.session_state.messages.append({"role": "user", "content": 'Hello'})
     with st.status("loading Chatbot...") as status:
-        st.session_state.messages.append({'role':'assistant','content':get_completion_from_messages(st.session_state.messages)})
-        status.update(label="Loading complete!", state="complete", expanded=False)
+        try:
+            st.session_state.messages.append({'role':'assistant','content':get_completion_from_messages(st.session_state.messages)})
+            status.update(label="Loading complete!", state="complete", expanded=False)
+        except:
+            status.update(label="Error Loading chatbot", state="error", expanded=False)
+            st.stop()
         
 st.markdown("#### CHATBOT")    
 # Display chat messages from history on app rerun
@@ -125,11 +146,17 @@ if prompt:= st.chat_input("What's Your Emergency?"):
                 st.session_state.add_hospital = s[0]
                 st.session_state.hospital_added_index = s[1]
                 st.session_state.hospital_count += st.session_state.add_hospital
-                st.session_state.metric.metric('Hospital',f'{st.session_state.hospital_count}/{st.session_state.no_of_hospital}',delta=st.session_state.add_hospital,delta_color="normal", help=None,label_visibility="visible")
+                col1.session_state.metric.metric('No of Hospital Accepted',f'{st.session_state.hospital_count}/{st.session_state.no_of_hospital}',delta=st.session_state.add_hospital,delta_color="normal", help=None,label_visibility="visible")
                 t.sleep(add_time)
+                st.session_state.index = np.array([i['Distance (km)'] for i in st.session_state.data[st.session_state.hospital_added_index]]).argmin()
+                st.session_state.in_km = st.session_state.data[st.session_state.hospital_added_index][st.session_state.index]['Distance (km)']
+                st.session_state.hospital_name = st.session_state.data[st.session_state.hospital_added_index][st.session_state.index]['Hospital Name']
+                col2.session_state.distance.metric('Distance',f'{st.session_state.in_km}',delta=None)
+                col3.session_state.name.metric('Hospital Name',f'{st.session_state.hospital_name}',delta=None)
+                #t.write(st.session_state.data[st.session_state.hospital_added_index])
             else:
-                st.write('we don')
+                pass
         except TypeError:
-            st.write('lol')
+            pass
             
 

@@ -11,7 +11,7 @@ def get_completion_from_messages(messages, model="gpt-3.5-turbo", temperature=0)
     )
 #     print(str(response.choices[0].message))
     return response.choices[0].message["content"]
-@st.cache_data
+#@st.cache_data
 def get_response(text):
     response = openai.ChatCompletion.create(
       model="gpt-3.5-turbo",
@@ -35,6 +35,7 @@ def get_response(text):
                     `Trauma Description` - `A very short description of the situation in less than 100 characters`
                     `Physicians` - `= `Return a LIST of specially trained surgeons who are responsible for assessing, \
                                         managing, and performing surgery when necessary on patients who have sustained the stated traumatic injuries.
+                    `Symptoms`- `Using the message , kindly state out possible observable symptoms that are likely to be a result of the medical situation in a python list`
                     - If the given message does not contain a medical related situation simply return `non medical related condition`
                     
                         
@@ -97,7 +98,28 @@ def generate_random_hospitals():
         "University Hospital", "Mercy Hospital", "Saint Hospital", "Surgical Center", "Wellness Center"
         ]
 
-        name = random.choice(prefixes) + random.choice(suffixes)
+        name = f'{random.choice(prefixes)} {random.choice(suffixes)}'
+        return name
+    def hospital_address_gen():
+        # List of common street prefixes
+        prefixes = [
+            "Main", "Elm", "Oak", "Maple", "Cedar", "Pine", "Birch", "Willow", "Cherry", "Sycamore",
+            "Rose", "Magnolia", "Juniper", "Acacia", "Redwood", "Spruce", "Cypress", "Laurel", "Poplar", "Chestnut",
+            "Fifth", "Juniper", "Palm", "Hickory", "Fern", "Linden", "Cottonwood", "Cedar", "Beech", "Sycamore",
+            "Magnolia", "Peach", "Holly", "Fir", "Cottonwood", "Hickory", "Catalpa", "Alder", "Sycamore", "Cypress",
+            "Aspen", "Cedar", "Beech", "Chestnut", "Fern", "Hickory", "Holly", "Juniper", "Linden", "Maple",
+            "Mulberry", "Palm", "Pine", "Poplar", "Redwood", "Spruce", "Willow", "Cedar", "Birch", "Cherry",
+            "Cypress", "Alder", "Holly", "Fir", "Peach", "Aspen", "Catalpa", "Cottonwood", "Beech", "Fern",
+            "Hickory", "Magnolia", "Holly", "Fern", "Cottonwood", "Linden", "Pine", "Mulberry", "Maple", "Catalpa",
+            "Peach", "Birch", "Fifth", "Aspen", "Alder", "Hickory", "Palm", "Juniper", "Chestnut", "Sycamore",
+            "Redwood", "Holly", "Cypress", "Palm", "Cottonwood", "Pine", "Cedar", "Maple", "Mulberry", "Birch",
+        ]
+        
+        # List of street suffixes
+        suffixes = ["Street", "Avenue", "Lane", "Boulevard", "Way", "Road", "Drive", "Terrace", "Court", "Place"]
+        
+        # Generate a list of 500 street names by combining prefixes and suffixes
+        name = f'{random.randint(1,100)}, {random.choice(prefixes)} {random.choice(suffixes)}'
         return name
 
     # Generate hospital data
@@ -106,11 +128,13 @@ def generate_random_hospitals():
 
     for _ in range(500):
         hospital_name = generate_hospital_name()
+        hospital_address = hospital_address_gen()
         distance = round(random.uniform(0.1, max_distance), 2)  # Random distance between 0.1 and 5.0 km
         is_available = False  # Boolean value set to False
 
         hospital_entry = {
             "Hospital Name": hospital_name,
+            'Hospital Address':hospital_address,
             "Distance (km)": distance,
             "Is Available": is_available
         }
