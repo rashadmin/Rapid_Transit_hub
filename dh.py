@@ -9,7 +9,7 @@ from functions import get_response,return_output,get_completion_from_messages,ti
 from streamlit.runtime.scriptrunner import add_script_run_ctx
 from info import video_url
 import multiprocessing as mp
-openai.api_key = "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"
+openai.api_key = st.secrets["openai_secret_key"]
 
 
 st.markdown(

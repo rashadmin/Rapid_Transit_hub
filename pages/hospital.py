@@ -27,6 +27,13 @@ components.html(
             <title>Interactive Information Box</title>
             <!-- Add Bootstrap CSS link here -->
             <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+             <style>
+        	body {{
+            background-color: #1803A5;
+            padding: 20px;
+            line-height:3.2;
+        }}
+             </style>
         </head>
         <body>
         
@@ -36,7 +43,7 @@ components.html(
         </button>
         
         <!-- Modal -->
-        <div class="modal fade" id="infoModal" tabindex="-1" role="dialog" aria-labelledby="infoModalLabel" aria-hidden="true">
+        <div class="modal fade bg-{button_color[st.session_state.json['Situation']]}" id="infoModal" tabindex="-1" role="dialog" aria-labelledby="infoModalLabel" aria-hidden="true">
             <div class="modal-dialog" role="document">
                 <div class="modal-content">
                     <div class="modal-header">
