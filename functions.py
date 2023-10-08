@@ -26,7 +26,7 @@ def get_response(text):
                     `Situation`- `Emergency or Non-Emergency`
                     `Age`-`Based on the age in the given information classify them as pediatric,adult,geriatric, if no age can be infered \
                             return Not Stated`
-                    `Gender` -  `From the message, kindly infer the gender if no gender can be infered \
+                    `Gender` -  `From the medical situation message, kindly infer the gender if no gender can be infered \
                             return Not Stated``
                     `Surgical Status` - `Preoperative or Post operative or any name for the Surgical Status if no status can be infered \
                             return Not Stated`` 
@@ -35,7 +35,7 @@ def get_response(text):
                     `Trauma Description` - `A very short description of the situation in less than 100 characters`
                     `Physicians` - `= `Return a LIST of specially trained surgeons who are responsible for assessing, \
                                         managing, and performing surgery when necessary on patients who have sustained the stated traumatic injuries.
-                    `Symptoms`- `Using the message , kindly state out possible observable symptoms that are likely to be a result of the medical situation in a python list`
+                    `Symptoms`- `Using the message , kindly state out atleast 5 possible observable symptoms that are likely to be a result of the medical situation in a python list`
                     - If the given message does not contain a medical related situation simply return `non medical related condition`
                     
                         
