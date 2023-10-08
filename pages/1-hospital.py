@@ -4,10 +4,7 @@ import time
 st.title('HOSPITAL INFORMATION CENTER')
 
 
-st.json(st.session_state.json)
-
-
-#physicians = ["Physician 1", "Physician 2", "Physician 3"]
+time.sleep(10)
 physician_list = "".join([f"<li>{physician}</li>" for physician in st.session_state.json['Physicians']])
 symptoms_list = "".join([f"<li>{symptom}</li>" for symptom in st.session_state.json['Symptoms']])
 button_color = {'Emergency':'danger','Non-Emergency':'warning',None:'primary'}
@@ -29,7 +26,7 @@ components.html(
             <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
              <style>
         	body {{
-            background-color: #1803A5;
+            background-color: #556B2F;
             padding: 20px;
             line-height:3.2;
         }}
