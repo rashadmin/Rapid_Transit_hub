@@ -12,19 +12,7 @@ import multiprocessing as mp
 openai.api_key = st.secrets["openai_secret_key"]
 
 
-st.markdown(
-    """
-    <style>
-    .reportview-container {{
-        background-color: red
-    }}
-   .sidebar .sidebar-content {{
-        background-color: blue
-    }}
-    </style>
-    """,
-    unsafe_allow_html=True
-)
+
 
 
 if 'json' not in st.session_state:

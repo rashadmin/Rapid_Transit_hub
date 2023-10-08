@@ -26,7 +26,7 @@ components.html(
             <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
              <style>
         	body {{
-            background-color: #556B2F;
+            background-color: #FFFDD0;
             padding: 20px;
             line-height:3.2;
         }}
